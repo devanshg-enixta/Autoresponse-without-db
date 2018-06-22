@@ -1,0 +1,7 @@
+hair
+tails
+tail
+body
+glands
+ears
+neck

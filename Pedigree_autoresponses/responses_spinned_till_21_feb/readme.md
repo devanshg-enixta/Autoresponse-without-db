@@ -1,0 +1,1 @@
+This folder contains all the responses of 37 aspects spinned until Feb 21 2018

@@ -1,0 +1,1099 @@
+brand_id,aspect_name,keyword,sentiment_type,lexicon_type,classification_type
+1,body-parts-eyes,eyes,,A,sentiment
+1,body-parts-eyes,eyesight,,A,sentiment
+1,body-parts-eyes,eye sight,,A,sentiment
+1,body-parts-eyes,eye,,A,sentiment
+1,body-parts-eyes,vision,,A,sentiment
+1,body-parts-muscles,muscles,,A,sentiment
+1,body-parts-muscles,bones,,A,sentiment
+1,body-parts-muscles,muscle,,A,sentiment
+1,body-parts-paws,paw,,A,sentiment
+1,body-parts-paws,paws,,A,sentiment
+1,body-parts-paws,feet,,A,sentiment
+1,body-parts-paws,legs,,A,sentiment
+1,body-parts-paws,leg,,A,sentiment
+1,body-parts-skin,fur,,A,sentiment
+1,body-parts-skin,skin,,A,sentiment
+1,body-parts-skin,coat,,A,sentiment
+1,body-parts,hair,,A,sentiment
+1,body-parts,tails,,A,sentiment
+1,body-parts,tail,,A,sentiment
+1,body-parts,body,,A,sentiment
+1,body-parts,glands,,A,sentiment
+1,body-parts,ears,,A,sentiment
+1,body-parts,neck,,A,sentiment
+1,competitors-others,pet shops,,A,sentiment
+1,competitors-others,meijer store,,A,sentiment
+1,competitors-others,wal-mart,,A,sentiment
+1,competitors-others,mcdonalds,,A,sentiment
+1,competitors-others,store-bought,,A,sentiment
+1,competitors-others,box stores,,A,sentiment
+1,competitors-others,grocery store,,A,sentiment
+1,competitors-others,grocery stores,,A,sentiment
+1,competitors-others,pet store,,A,sentiment
+1,competitors-others,pet stores,,A,sentiment
+1,competitors-others,supermarket,,A,sentiment
+1,competitors-others,walmart,,A,sentiment
+1,competitors-others,pet shops,,A,sentiment
+1,competitors-others,meijer store,,A,sentiment
+1,competitors-others,wal-mart,,A,sentiment
+1,competitors-others,mcdonalds,,A,sentiment
+1,competitors-others,grocery,,A,sentiment
+1,competitors-others,grocery store,,A,sentiment
+1,competitors-others,grocery stores,,A,sentiment
+1,competitors-others,pet store,,A,sentiment
+1,competitors-others,pet stores,,A,sentiment
+1,competitors-others,supermarket,,A,sentiment
+1,competitors-others,walmart,,A,sentiment
+1,competitors-others,zip,,A,sentiment
+1,competitors-others,zipper,,A,sentiment
+1,competitors-others,canidae,,A,sentiment
+1,competitors-others,taste of the wild,,A,sentiment
+1,competitors-others,wellness,,A,sentiment
+1,competitors-others,goodnessall,,A,sentiment
+1,competitors,competitors,,A,sentiment
+1,competitors,trustworthy shops,,A,sentiment
+1,competitors,local drug store,,A,sentiment
+1,competitors,local store,,A,sentiment
+1,competitors,lose market,,A,sentiment
+1,competitors,lose market share,,A,sentiment
+1,competitors,mall or shops,,A,sentiment
+1,competitors,nearby store,,A,sentiment
+1,competitors,olmst every shops,,A,sentiment
+1,competitors,outlets,,A,sentiment
+1,competitors,outlets like Lifestyle,,A,sentiment
+1,competitors,physical store,,A,sentiment
+1,competitors,retail outlets,,A,sentiment
+1,competitors,retailer shops,,A,sentiment
+1,competitors,shopping outting,,A,sentiment
+1,competitors,shops,,A,sentiment
+1,competitors,shops n mall,,A,sentiment
+1,complementary,goodie,,A,sentiment
+1,complementary,complementary,,A,sentiment
+1,complementary,inpack,,A,sentiment
+1,complementary,inpacks,,A,sentiment
+1,customer-care,customer care,,A,sentiment
+1,customer-care,customer services,,A,sentiment
+1,customer-care,customer support,,A,sentiment
+1,customer-care,customer expectations,,A,sentiment
+1,customer-care,order,,A,sentiment
+1,customer-care,reachs customer expectations,,A,sentiment
+1,customer-care,regular customers,,A,sentiment
+1,customer-care,repeat customer,,A,sentiment
+1,customer-care,support,,A,sentiment
+1,customer-care,support from customer,,A,sentiment
+1,deals-offers,deal,,A,sentiment
+1,deals-offers,deals,,A,sentiment
+1,deals-offers,offer,,A,sentiment
+1,deals-offers,offers,,A,sentiment
+1,deals-offers,discounted price,,A,sentiment
+1,deals-offers,promotional offer,,A,sentiment
+1,deals-offers,promotional price,,A,sentiment
+1,deals-offers,promotional rate,,A,sentiment
+1,deals-offers,discount,,A,sentiment
+1,delivery-charges,delivery charges,,A,sentiment
+1,delivery-charges,shipping charge,,A,sentiment
+1,delivery-charges,delivery charge,,A,sentiment
+1,delivery-charges,shipping charges,,A,sentiment
+1,delivery-charges,shipping fee,,A,sentiment
+1,delivery-charges,shipping fees,,A,sentiment
+1,delivery-charges,transportation cost,,A,sentiment
+1,delivery-charges,transportation costs,,A,sentiment
+1,delivery-executive,delivery boy,,A,sentiment
+1,delivery-executive,delivery guy,,A,sentiment
+1,delivery-executive,delivery guys,,A,sentiment
+1,delivery-executive,delivery person,,A,sentiment
+1,delivery-executive,courier person,,A,sentiment
+1,delivery-executive,courier guy,,A,sentiment
+1,delivery-executive,courier guys,,A,sentiment
+1,delivery-executive,delivery executive,,A,sentiment
+1,delivery-executive,courier executive,,A,sentiment
+1,delivery,shipped,,A,sentiment
+1,delivery,delivery,,A,sentiment
+1,delivery,box delivery,,A,sentiment
+1,delivery,courier,,A,sentiment
+1,delivery,courier service,,A,sentiment
+1,delivery,couriers,,A,sentiment
+1,delivery,certain date,,A,sentiment
+1,delivery,certain date still,,A,sentiment
+1,delivery,cooperative delivery,,A,sentiment
+1,delivery,delivery by ecart,,A,sentiment
+1,delivery,delivery experience,,A,sentiment
+1,delivery,delivery installation,,A,sentiment
+1,delivery,delivery option,,A,sentiment
+1,delivery,delivery process,,A,sentiment
+1,delivery,delevery,,A,sentiment
+1,delivery,delievery,,A,sentiment
+1,delivery,deliver,,A,sentiment
+1,delivery,Delivered before date,,A,sentiment
+1,delivery,delivers,,A,sentiment
+1,delivery,dlvery,,A,sentiment
+1,delivery,assigned delivery,,A,sentiment
+1,delivery,assigned delivery date,,A,sentiment
+1,delivery,day delivery,,A,sentiment
+1,delivery,delivery date,,A,sentiment
+1,delivery,timely delivery,,A,sentiment
+1,delivery,b4 due date,,A,sentiment
+1,delivery,coverage,,A,sentiment
+1,delivery,ekart delivery,,A,sentiment
+1,delivery,estimated date,,A,sentiment
+1,delivery,due date,,A,sentiment
+1,delivery,product delivery,,A,sentiment
+1,delivery,scheduled delivery,,A,sentiment
+1,delivery,shipping,,A,sentiment
+1,dental-health,teeth looked,,A,sentiment
+1,dental-health,teeth look,,A,sentiment
+1,dental-health,teeth looking,,A,sentiment
+1,dental-health,tooth decay,,A,sentiment
+1,dental-health,tooth brush,,A,sentiment
+1,dental-health,tooth brushing,,A,sentiment
+1,dental-health,tooth tartar,,A,sentiment
+1,dental-health,tooth cleaning,,A,sentiment
+1,dental-health,teeth her clean,,A,sentiment
+1,dental-health,dental hygiene,,A,sentiment
+1,dental-health,oral health,,A,sentiment
+1,dental-health,dental care,,A,sentiment
+1,dental-health,dental treat,,A,sentiment
+1,dental-health,gum,,A,sentiment
+1,dental-health,gums,,A,sentiment
+1,dental-health,dental health,,A,sentiment
+1,dental-health,teeth looked,,A,sentiment
+1,dental-health,teeth look,,A,sentiment
+1,dental-health,teeth looking,,A,sentiment
+1,dental-health,prevent tartar buildup,,A,sentiment
+1,dental-health,tooth decay,,A,sentiment
+1,dental-health,tooth brush,,A,sentiment
+1,dental-health,tooth brushing,,A,sentiment
+1,dental-health,tooth tartar,,A,sentiment
+1,dental-health,tooth cleaning,,A,sentiment
+1,dental-health,teeth her clean,,A,sentiment
+1,dental-health,dental hygiene,,A,sentiment
+1,dental-health,oral health,,A,sentiment
+1,dental-health,dental care,,A,sentiment
+1,display-image,display image vs received product,,A,sentiment
+1,display-image,demo,,A,sentiment
+1,display-image,demo image,,A,sentiment
+1,display-image,demo image Color,,A,sentiment
+1,display-image,demo pic,,A,sentiment
+1,display-image,demonstration,,A,sentiment
+1,display-image,image,,A,sentiment
+1,display-image,image provided,,A,sentiment
+1,display-image,include swatches,,A,sentiment
+1,display-image,include swatches pics,,A,sentiment
+1,display-image,material which display,,A,sentiment
+1,display-image,seller display,,A,sentiment
+1,display-image,showed pic,,A,sentiment
+1,display-image,swatches,,A,sentiment
+1,display-image,swatches here,,A,sentiment
+1,display-image,swatches pics,,A,sentiment
+1,dog-user-breed,skinnier,,A,sentiment
+1,dog-user-breed,huskys,,A,sentiment
+1,dog-user-breed,mystie,,A,sentiment
+1,dog-user-breed,collie,,A,sentiment
+1,dog-user-breed,merricks,,A,sentiment
+1,dog-user-breed,lhasa apso,,A,sentiment
+1,dog-user-breed,bonito,,A,sentiment
+1,dog-user-breed,bosco,,A,sentiment
+1,dog-user-breed,sheepdog,,A,sentiment
+1,dog-user-breed,shephard mix,,A,sentiment
+1,dog-user-breed,mix breed,,A,sentiment
+1,dog-user-breed,sizemy dog,,A,sentiment
+1,dog-user-breed,shiztsu,,A,sentiment
+1,dog-user-breed,pomchi,,A,sentiment
+1,dog-user-breed,pit bulls,,A,sentiment
+1,dog-user-breed,blain,,A,sentiment
+1,dog-user-breed,hound,,A,sentiment
+1,dog-user-breed,airedale terrier,,A,sentiment
+1,dog-user-breed,brand dog,,A,sentiment
+1,dog-user-breed,felines,,A,sentiment
+1,dog-user-breed,shepherd mutt,,A,sentiment
+1,dog-user-breed,law suits,,A,sentiment
+1,dog-user-breed,st bernard,,A,sentiment
+1,dog-user-breed,pit/hound mix,,A,sentiment
+1,dog-user-breed,boogers,,A,sentiment
+1,dog-user-breed,mastiff boxer,,A,sentiment
+1,dog-user-breed,alaska,,A,sentiment
+1,dog-user-breed,morkie,,A,sentiment
+1,dog-user-breed,spaniels,,A,sentiment
+1,dog-user-breed,puggle,,A,sentiment
+1,dog-user-breed,shepard mixes,,A,sentiment
+1,dog-user-breed,pyrennes,,A,sentiment
+1,dog-user-breed,hunks,,A,sentiment
+1,dog-user-breed,miniature poodle,,A,sentiment
+1,dog-user-breed,retriever/dodson mix,,A,sentiment
+1,dog-user-breed,bernard,,A,sentiment
+1,dog-user-breed,poobah,,A,sentiment
+1,dog-user-breed,griffon,,A,sentiment
+1,dog-user-breed,doodle,,A,sentiment
+1,dog-user-breed,heeler mix,,A,sentiment
+1,dog-user-breed,spaniel,,A,sentiment
+1,dog-user-breed,pyrenees,,A,sentiment
+1,dog-user-breed,cocker,,A,sentiment
+1,dog-user-breed,furbaby,,A,sentiment
+1,dog-user-breed,aussie,,A,sentiment
+1,dog-user-breed,cocker spaniel,,A,sentiment
+1,dog-user-breed,charles,,A,sentiment
+1,dog-user-breed,beagle,,A,sentiment
+1,dog-user-breed,border collie,,A,sentiment
+1,dog-user-breed,boston terrier,,A,sentiment
+1,dog-user-breed,boxer,,A,sentiment
+1,dog-user-breed,boxers,,A,sentiment
+1,dog-user-breed,bull,,A,sentiment
+1,dog-user-breed,bulldog,,A,sentiment
+1,dog-user-breed,chihuahua,,A,sentiment
+1,dog-user-breed,chihuahuas,,A,sentiment
+1,dog-user-breed,corgis,,A,sentiment
+1,dog-user-breed,crack,,A,sentiment
+1,dog-user-breed,dachshund,,A,sentiment
+1,dog-user-breed,dachshunds,,A,sentiment
+1,dog-user-breed,dane,,A,sentiment
+1,dog-user-breed,danes,,A,sentiment
+1,dog-user-breed,german shepherd,,A,sentiment
+1,dog-user-breed,golden doodle,,A,sentiment
+1,dog-user-breed,greyhound,,A,sentiment
+1,dog-user-breed,greyhounds,,A,sentiment
+1,dog-user-breed,gsd,,A,sentiment
+1,dog-user-breed,huskies,,A,sentiment
+1,dog-user-breed,husky,,A,sentiment
+1,dog-user-breed,lab mix,,A,sentiment
+1,dog-user-breed,labradoodle,,A,sentiment
+1,dog-user-breed,labrador,,A,sentiment
+1,dog-user-breed,labs,,A,sentiment
+1,dog-user-breed,lab,,A,sentiment
+1,dog-user-breed,mastiff,,A,sentiment
+1,dog-user-breed,molars,,A,sentiment
+1,dog-user-breed,mutt,,A,sentiment
+1,dog-user-breed,nuts,,A,sentiment
+1,dog-user-breed,part,,A,sentiment
+1,dog-user-breed,pit mix,,A,sentiment
+1,dog-user-breed,pitbull,,A,sentiment
+1,dog-user-breed,poodle,,A,sentiment
+1,dog-user-breed,poodles,,A,sentiment
+1,dog-user-breed,pound dog,,A,sentiment
+1,dog-user-breed,pounds,,A,sentiment
+1,dog-user-breed,pug,,A,sentiment
+1,dog-user-breed,rat terrier,,A,sentiment
+1,dog-user-breed,rescue,,A,sentiment
+1,dog-user-breed,rescue dog,,A,sentiment
+1,dog-user-breed,retriever,,A,sentiment
+1,dog-user-breed,retriver,,A,sentiment
+1,dog-user-breed,rottweiler,,A,sentiment
+1,dog-user-breed,schnauzer,,A,sentiment
+1,dog-user-breed,schnauzers,,A,sentiment
+1,dog-user-breed,shepard,,A,sentiment
+1,dog-user-breed,shepard mix,,A,sentiment
+1,dog-user-breed,shepherd,,A,sentiment
+1,dog-user-breed,shepherds,,A,sentiment
+1,dog-user-breed,terrier,,A,sentiment
+1,dog-user-breed,toy poodle,,A,sentiment
+1,dog-user-breed,tzu,,A,sentiment
+1,dog-user-breed,yorkie,,A,sentiment
+1,dog-user-breed,yorkies,,A,sentiment
+1,dog-user-breed,chow,,A,sentiment
+1,ease-of-intake,bowel,,A,sentiment
+1,ease-of-intake,tummy,,A,sentiment
+1,ease-of-intake,digest,,A,sentiment
+1,ease-of-intake,digesting,,A,sentiment
+1,effect-on-stomach,stomach,,A,sentiment
+1,effect-on-stomach,tummy,,A,sentiment
+1,etailers,etailers,,A,sentiment
+1,etailers,"flipkart (check which sites review, and depending on that reply, if flipkart positive on amazon reply different)",,A,sentiment
+1,etailers,amazon,,A,sentiment
+1,etailers,snapdeal,,A,sentiment
+1,etailers,contacting flipcart,,A,sentiment
+1,etailers,big online megastore,,A,sentiment
+1,etailers,flip kart,,A,sentiment
+1,etailers,flipcart,,A,sentiment
+1,etailers,flipkart team,,A,sentiment
+1,etailers,genuinity of flipcart,,A,sentiment
+1,etailers,kart,,A,sentiment
+1,etailers,market,,A,sentiment
+1,etailers,market leader,,A,sentiment
+1,etailers,online,,A,sentiment
+1,etailers,online advertisement,,A,sentiment
+1,etailers,online megastore,,A,sentiment
+1,etailers,online shopping,,A,sentiment
+1,etailers,online sights,,A,sentiment
+1,etailers,nykaa,,A,sentiment
+1,etailers,pdct flipkart,,A,sentiment
+1,etailers,repeatedly contacting flipcart,,A,sentiment
+1,etailers,snap deal,,A,sentiment
+1,etailers,store,,A,sentiment
+1,etailers,web site,,A,sentiment
+1,etailers,website,,A,sentiment
+1,food-condition,moist,,A,sentiment
+1,food-condition,powdered,,A,sentiment
+1,food-condition,semi-hard,,A,sentiment
+1,food-condition,wet dog food,,A,sentiment
+1,food-condition,wet,,A,sentiment
+1,food-condition,soft,,A,sentiment
+1,food-condition,hard,,A,sentiment
+1,food-condition,dry,,A,sentiment
+1,food-condition,mushy,,A,sentiment
+1,food-condition,soupy,,A,sentiment
+1,food-condition,soft-hard,,A,sentiment
+1,food-condition,softish,,A,sentiment
+1,food-condition,softness,,A,sentiment
+1,food-condition,breakable,,A,sentiment
+1,food-condition,dried,,A,sentiment
+1,food-condition,paste,,A,sentiment
+1,food-condition,gel,,A,sentiment
+1,food-condition,dry,,A,sentiment
+1,food-condition,moist food,,A,sentiment
+1,food-condition,wet food,,A,sentiment
+1,food-condition,wet,,A,sentiment
+1,food-eatability,crumbled,,A,sentiment
+1,food-eatability,chewing,,A,sentiment
+1,food-eatability,chew,,A,sentiment
+1,food-eatability,chewer,,A,sentiment
+1,food-eatability,chewers,,A,sentiment
+1,food-eatability,chewing,,A,sentiment
+1,food-eatability,chews,,A,sentiment
+1,food-ingredients,butter,,A,sentiment
+1,food-ingredients,cheese,,A,sentiment
+1,food-ingredients,chicken and rice,,A,sentiment
+1,food-ingredients,brewers rice,,A,sentiment
+1,food-ingredients,rice,,A,sentiment
+1,food-ingredients,lamb,,A,sentiment
+1,food-ingredients,chemical,,A,sentiment
+1,food-ingredients,chocolate,,A,sentiment
+1,food-ingredients,corn,,A,sentiment
+1,food-ingredients,egg,,A,sentiment
+1,food-ingredients,flour,,A,sentiment
+1,food-ingredients,vegetables,,A,sentiment
+1,food-ingredients,veggies,,A,sentiment
+1,food-ingredients,grain,,A,sentiment
+1,food-ingredients,grains,,A,sentiment
+1,food-ingredients,ingredient,,A,sentiment
+1,food-ingredients,supplement,,A,sentiment
+1,food-ingredients,supplements,,A,sentiment
+1,food-ingredients,wheat,,A,sentiment
+1,food-ingredients,wheat flour,,A,sentiment
+1,food-ingredients,meal,,A,sentiment
+1,food-ingredients,sauce,,A,sentiment
+1,food-ingredients,staple,,A,sentiment
+1,food-ingredients,morsels,,A,sentiment
+1,food-ingredients,grain free,,A,sentiment
+1,food-ingredients,chloride,,A,sentiment
+1,food-ingredients,energy,,A,sentiment
+1,food-ingredients,flakes,,A,sentiment
+1,food-ingredients,recipe,,A,sentiment
+1,food-ingredients,chopped beef,,A,sentiment
+1,food-ingredients,chicken,,A,sentiment
+1,food-ingredients,meat jerky,,A,sentiment
+1,food-ingredients,meat,,A,sentiment
+1,food-ingredients,meats,,A,sentiment
+1,food-ingredients,meaty,,A,sentiment
+1,food-ingredients,beef,,A,sentiment
+1,food-ingredients,steak,,A,sentiment
+1,food-ingredients,meat jerky pouch,,A,sentiment
+1,food-ingredients,carrots,,A,sentiment
+1,food-ingredients,onion,,A,sentiment
+1,food-ingredients,veg,,A,sentiment
+1,food-ingredients,freshies,,A,sentiment
+1,food-ingredients,materials,,A,sentiment
+1,food-ingredients,scrubbers,,A,sentiment
+1,food-ingredients,Maltese,,A,sentiment
+1,food-ingredients,eucalyptus,,A,sentiment
+1,food-ingredients,jelly,,A,sentiment
+1,food-shapes,chunk,,A,sentiment
+1,food-shapes,chunks,,A,sentiment
+1,food-shapes,chunky,,A,sentiment
+1,food-shapes,slices,,A,sentiment
+1,food-shapes,nibbles,,A,sentiment
+1,food-shapes,pieces/shapes,,A,sentiment
+1,food-shapes,quality_kibble,,A,sentiment
+1,food-shapes,chunky,,A,sentiment
+1,food-shapes,pieces/shapes,,A,sentiment
+1,food-shapes,shards,,A,sentiment
+1,food-shapes,kibbles,,A,sentiment
+1,food-shapes,pellets,,A,sentiment
+1,food-shapes,pellet,,A,sentiment
+1,food-shapes,choppers,,A,sentiment
+1,food-shapes,kibbles,,A,sentiment
+1,food-shapes,coarse,,A,sentiment
+1,food-shapes,shape,,A,sentiment
+1,food-shapes,shapes,,A,sentiment
+1,food-shapes,chucky,,A,sentiment
+1,food-shapes,nibble,,A,sentiment
+1,food-shapes,cubes,,A,sentiment
+1,food-type,grain-free,,A,sentiment
+1,food-type,canned,,A,sentiment
+1,food-type,less-processed,,A,sentiment
+1,health-allergy,allergic,,A,sentiment
+1,health-allergy,allergy,,A,sentiment
+1,health-ill,sick,,A,sentiment
+1,health-ill,seriously ill,,A,sentiment
+1,health-ill,ill,,A,sentiment
+1,health-ill,admitted to hospital,,A,sentiment
+1,health-toxic,choking,,A,sentiment
+1,health-toxic,dangerous,,A,sentiment
+1,health-toxic,toxic,,A,sentiment
+1,health-toxic,harmful,,A,sentiment
+1,health-toxic,chocking,,A,sentiment
+1,health-toxic,carcinogenic,,A,sentiment
+1,health-toxic,chock,,A,sentiment
+1,health-toxic,poison,,A,sentiment
+1,health-toxic,hazard,,A,sentiment
+1,health-toxic,tumerous,,A,sentiment
+1,health-toxic,toxins/harmful,,A,sentiment
+1,health-toxic,vomited,,A,sentiment
+1,health-toxic,nauseous,,A,sentiment
+1,health-toxic,hazardous,,A,sentiment
+1,health-vomit,vomiting,,A,sentiment
+1,health-vomit,vomited,,A,sentiment
+1,health-vomit,vomit,,A,sentiment
+1,health-vomit,vomitting,,A,sentiment
+1,health,health,,A,sentiment
+1,invoice,invoice,,A,sentiment
+1,invoice,on the invoice,,A,sentiment
+1,invoice,proper invoice,,A,sentiment
+1,invoice,proper tax invoice,,A,sentiment
+1,invoice,receive a proper invoice,,A,sentiment
+1,invoice,recieved the invoice,,A,sentiment
+1,invoice,tax invoice soft copy,,A,sentiment
+1,nutritional-information,gluten,,A,sentiment
+1,nutritional-information,high-fat,,A,sentiment
+1,nutritional-information,d-calcium,,A,sentiment
+1,nutritional-information,fatty,,A,sentiment
+1,nutritional-information,carb,,A,sentiment
+1,nutritional-information,vitamins/supplements,,A,sentiment
+1,nutritional-information,fattening,,A,sentiment
+1,nutritional-information,nutritional info,,A,sentiment
+1,nutritional-information,calorie,,A,sentiment
+1,nutritional-information,dietary,,A,sentiment
+1,nutritional-information,vitamins,,A,sentiment
+1,nutritional-information,protein,,A,sentiment
+1,nutritional-information,chloride,,A,sentiment
+1,nutritional-information,sodium,,A,sentiment
+1,nutritional-information,omega 3,,A,sentiment
+1,nutritional-information,omega 6,,A,sentiment
+1,nutritional-information,proteinate,,A,sentiment
+1,nutritional-information,minerals,,A,sentiment
+1,nutritional-information,nutrients,,A,sentiment
+1,nutritional-information,nutrition,,A,sentiment
+1,nutritional-information,preservatives,,A,sentiment
+1,nutritional-information,gelatin,,A,sentiment
+1,nutritional-information,calories,,A,sentiment
+1,nutritional-information,pantothenate,,A,sentiment
+1,nutritional-information,protein diet,,A,sentiment
+1,nutritional-information,glucose,,A,sentiment
+1,nutritional-information,enamel,,A,sentiment
+1,nutritional-information,carbs,,A,sentiment
+1,nutritional-information,trace vitamin,,A,sentiment
+1,nutritional-information,carbohydrates,,A,sentiment
+1,nutritional-information,vitamins/supplements,,A,sentiment
+1,nutritional-information,protein diet,,A,sentiment
+1,nutritional-information,calories,,A,sentiment
+1,nutritional-information,proteinate,,A,sentiment
+1,nutritional-information,nutrition,,A,sentiment
+1,nutritional-information,glucose,,A,sentiment
+1,nutritional-information,protein,,A,sentiment
+1,nutritional-information,nutrients,,A,sentiment
+1,nutritional-information,carbs,,A,sentiment
+1,nutritional-information,trace vitamin,,A,sentiment
+1,nutritional-information,vitamins,,A,sentiment
+1,nutritional-information,carbohydrates,,A,sentiment
+1,nutritional-information,pantothenate,,A,sentiment
+1,nutritional-information,chloride,,A,sentiment
+1,nutritional-information,mononitrate,,A,sentiment
+1,nutritional-information,protein,,A,sentiment
+1,nutritional-information,nutrient,,A,sentiment
+1,nutritional-information,nutrients,,A,sentiment
+1,nutritional-information,vitamins,,A,sentiment
+1,nutritional-information,creatine,,A,sentiment
+1,nutritional-information,percentage carbohydrates,,A,sentiment
+1,nutritional-information,proteins,,A,sentiment
+1,opinion,verdict,,A,sentiment
+1,opinion,caveat,,A,sentiment
+1,opinion,improvment,,A,sentiment
+1,oral-health,breath part,,A,sentiment
+1,oral-health,doggie breath,,A,sentiment
+1,oral-health,dogs breath,,A,sentiment
+1,oral-health,breathe,,A,sentiment
+1,oral-health,mouth,,A,sentiment
+1,oral-health,oral health,,A,sentiment
+1,oral-health,breath part,,A,sentiment
+1,oral-health,doggie breath,,A,sentiment
+1,oral-health,dogs breath,,A,sentiment
+1,oral-health,breathe,,A,sentiment
+1,oral-health,mouth,,A,sentiment
+1,oral-health,breath fresh,,A,sentiment
+1,oral-health,mouths,,A,sentiment
+1,oral-health,breath you,,A,sentiment
+1,oral-health,breath smell,,A,sentiment
+1,oral-health,breath bit,,A,sentiment
+1,oral-health,breath,,A,sentiment
+1,oral-health,breath well,,A,sentiment
+1,packaging,sealing,,A,sentiment
+1,packaging,plastic-wrapped,,A,sentiment
+1,packaging,bag,,A,sentiment
+1,packaging,bags,,A,sentiment
+1,packaging,packet,,A,sentiment
+1,packaging,cover,,A,sentiment
+1,packaging,lid,,A,sentiment
+1,packaging,size bag,,A,sentiment
+1,packaging,basket,,A,sentiment
+1,packaging,packaging,,A,sentiment
+1,packaging,packet,,A,sentiment
+1,packaging,package,,A,sentiment
+1,packaging,packing quality,,A,sentiment
+1,packaging,packing,,A,sentiment
+1,packaging,pack,,A,sentiment
+1,packaging,box,,A,sentiment
+1,packaging,outer cover,,A,sentiment
+1,packaging,pack,,A,sentiment
+1,packaging,packing,,A,sentiment
+1,packaging,scratch,,A,sentiment
+1,packaging,transparent packaging,,A,sentiment
+1,packaging,food bag,,A,sentiment
+1,packaging,food packets,,A,sentiment
+1,packaging,design,,A,sentiment
+1,packaging,wrapping,,A,sentiment
+1,packaging,packing,,A,sentiment
+1,packaging,packet cover,,A,sentiment
+1,packaging,quality cardboard box,,A,sentiment
+1,packaging,inner package,,A,sentiment
+1,packaging,cap,,A,sentiment
+1,packaging,plastic cover,,A,sentiment
+1,packaging,packge,,A,sentiment
+1,packaging,outer package,,A,sentiment
+1,packaging,packet was torn,,A,sentiment
+1,packaging,packet,,A,sentiment
+1,packaging,cover,,A,sentiment
+1,packaging,food pouches,,A,sentiment
+1,packaging,bag inside,,A,sentiment
+1,packaging,tape,,A,sentiment
+1,packaging,product package,,A,sentiment
+1,packaging,packet of food,,A,sentiment
+1,packaging,packages,,A,sentiment
+1,packaging,tin cover,,A,sentiment
+1,packaging,pack,,A,sentiment
+1,packaging,food packet,,A,sentiment
+1,packaging,cello tape,,A,sentiment
+1,packaging,sachets,,A,sentiment
+1,packaging,packing,,A,sentiment
+1,packaging,package,,A,sentiment
+1,packaging,plastic cap,,A,sentiment
+1,packaging,parcels,,A,sentiment
+1,packaging,packets,,A,sentiment
+1,packaging,tin,,A,sentiment
+1,price,money,,A,sentiment
+1,price,price,,A,sentiment
+1,price,bucks,,A,sentiment
+1,price,bucks,,A,sentiment
+1,price,pricing,,A,sentiment
+1,price,cost,,A,sentiment
+1,price,cots,,A,sentiment
+1,price,penny,,A,sentiment
+1,price,pay,,A,sentiment
+1,price,payment,,A,sentiment
+1,price,rate,,A,sentiment
+1,price,rates,,A,sentiment
+1,price,rupees,,A,sentiment
+1,price,price product,,A,sentiment
+1,price,prices,,A,sentiment
+1,price,money,,A,sentiment
+1,price,mrp,,A,sentiment
+1,price,penny spent,,A,sentiment
+1,price,every penny,,A,sentiment
+1,price,price bracket,,A,sentiment
+1,price,price paid,,A,sentiment
+1,price,price point,,A,sentiment
+1,price,price quality ratio,,A,sentiment
+1,price,price range,,A,sentiment
+1,price,price ranges,,A,sentiment
+1,price,price ratio,,A,sentiment
+1,price,price tag,,A,sentiment
+1,price,price tags,,A,sentiment
+1,price,price they charge,,A,sentiment
+1,price,price wise,,A,sentiment
+1,price,prices charged,,A,sentiment
+1,price,prices they charge,,A,sentiment
+1,price,similar price,,A,sentiment
+1,price,similar price range,,A,sentiment
+1,price,similar priced,,A,sentiment
+1,price,similar price point,,A,sentiment
+1,price,similarly priced,,A,sentiment
+1,price,priced,,A,sentiment
+1,price,rupee,,A,sentiment
+1,price,paid,,A,sentiment
+1,price,dollars,,A,sentiment
+1,price,dollar,,A,sentiment
+1,product-condition,condition,,A,sentiment
+1,product-condition,product condition,,A,sentiment
+1,product-condition,manufactured date,,A,sentiment
+1,product-condition,manufacturing date,,A,sentiment
+1,product-condition,expire date,,A,sentiment
+1,product-condition,mfg date,,A,sentiment
+1,product-condition,exp date,,A,sentiment
+1,product-condition,expiry date,,A,sentiment
+1,product-condition,condition,,A,sentiment
+1,product-condition,old stock,,A,sentiment
+1,product-condition,mentioned expiry date,,A,sentiment
+1,product-dimensions,kg,,A,sentiment
+1,product-dimensions,size,,A,sentiment
+1,product-dimensions,oz,,A,sentiment
+1,product-dimensions,weight,,A,sentiment
+1,product-dimensions,height,,A,sentiment
+1,product-dimensions,kg pack,,A,sentiment
+1,product-dimensions,8 kg bag,,A,sentiment
+1,product-dimensions,1 4kg,,A,sentiment
+1,product-dimensions,3 kg packet,,A,sentiment
+1,product-dimensions,kg packet,,A,sentiment
+1,product-dimensions,3 kg,,A,sentiment
+1,product-dimensions,4kg,,A,sentiment
+1,product-dimensions,storage,,A,sentiment
+1,product-dimensions,7kg,,A,sentiment
+1,product-dimensions,7 kg,,A,sentiment
+1,product-dimensions,1kg,,A,sentiment
+1,product-dimensions,3kg,,A,sentiment
+1,product-dimensions,kg bag,,A,sentiment
+1,product-dimensions,7 kg pack,,A,sentiment
+1,product-dimensions,1 kg,,A,sentiment
+1,product-dimensions,7kg pack,,A,sentiment
+1,product-dimensions,7kg pck,,A,sentiment
+1,product-dimensions,large size,,A,sentiment
+1,product-dimensions,kilo,,A,sentiment
+1,product-dimensions,3kg pack,,A,sentiment
+1,product-durability,durability,,A,sentiment
+1,product-overall,item,,A,sentiment
+1,product-overall,product,,A,sentiment
+1,product-overall,jumbones,,A,sentiment
+1,product-overall,marrobone,,A,sentiment
+1,product-overall,marrobones,,A,sentiment
+1,product-overall,milkbones,,A,sentiment
+1,product-overall,dog,,A,sentiment
+1,product-overall,pup,,A,sentiment
+1,product-overall,puppy,,A,sentiment
+1,product-overall,pupy,,A,sentiment
+1,product-overall,marrow,,A,sentiment
+1,product-overall,marrow bones,,A,sentiment
+1,product-overall,care treats,,A,sentiment
+1,product-overall,denta sticks,,A,sentiment
+1,product-overall,dentabones,,A,sentiment
+1,product-overall,dentastix beef,,A,sentiment
+1,product-overall,dentastix fresh,,A,sentiment
+1,product-overall,dents,,A,sentiment
+1,product-overall,stix,,A,sentiment
+1,product-overall,dentastick,,A,sentiment
+1,product-overall,dentastix,,A,sentiment
+1,product-overall,dentastix work,,A,sentiment
+1,product-overall,dentistix,,A,sentiment
+1,product-overall,dental sticks,,A,sentiment
+1,product-overall,dental treat,,A,sentiment
+1,product-overall,greenies,,A,sentiment
+1,product-overall,item,,A,sentiment
+1,product-overall,product,,A,sentiment
+1,product-overall,quality food,,A,sentiment
+1,product-overall,pet food,,A,sentiment
+1,product-overall,pedigree food,,A,sentiment
+1,product-overall,pedigree,,A,sentiment
+1,product-overall,products,,A,sentiment
+1,product-overall,dog foods,,A,sentiment
+1,product-overall,home food,,A,sentiment
+1,product-overall,dog food,,A,sentiment
+1,replacement,provides replacement,,A,sentiment
+1,replacement,provides replacement policy,,A,sentiment
+1,replacement,replacement policy,,A,sentiment
+1,seller,seller,,A,sentiment
+1,seller,seller cloudtail,,A,sentiment
+1,seller,seller target,,A,sentiment
+1,seller,trusted seller Target,,A,sentiment
+1,service,service,,A,sentiment
+1,service,accepting my order,,A,sentiment
+1,service,after replacement,,A,sentiment
+1,service,app services,,A,sentiment
+1,service,before placing order,,A,sentiment
+1,service,brought online,,A,sentiment
+1,service,cancellation replacement item,,A,sentiment
+1,service,cancelled order,,A,sentiment
+1,service,covering,,A,sentiment
+1,service,experience,,A,sentiment
+1,service,gonna order,,A,sentiment
+1,service,placing order,,A,sentiment
+1,service,service packages,,A,sentiment
+1,service,services,,A,sentiment
+1,service,shopping experience,,A,sentiment
+1,service,cities,,A,sentiment
+1,service,city,,A,sentiment
+1,service,state,,A,sentiment
+1,service,place,,A,sentiment
+1,service,locality,,A,sentiment
+1,smell,smells,,A,sentiment
+1,smell,odors,,A,sentiment
+1,smell,smell,,A,sentiment
+1,smell,smelling,,A,sentiment
+1,taste,tasting,,A,sentiment
+1,taste,tasteless,,A,sentiment
+1,taste,taste,,A,sentiment
+1,taste,flavour,,A,sentiment
+1,taste,flavor,,A,sentiment
+1,taste,flavours,,A,sentiment
+1,taste,flavors,,A,sentiment
+1,texture-style,textures,,A,sentiment
+1,texture-style,cream color,,A,sentiment
+1,texture-style,coloring,,A,sentiment
+1,texture-style,colorings,,A,sentiment
+1,vfm,budget,,A,sentiment
+1,vfm,pay off,,A,sentiment
+1,vfm,value proposition,,A,sentiment
+1,vfm,value,,A,sentiment
+1,vfm,size,,A,sentiment
+1,vfm,price worth,,A,sentiment
+1,vfm,bids,,A,sentiment
+1,vfm,combo,,A,sentiment
+1,vfm,payoff,,A,sentiment
+1,vfm,pay-off,,A,sentiment
+1,vfm,buying,,A,sentiment
+1,vfm,extra bucks,,A,sentiment
+1,vfm,higher budget,,A,sentiment
+1,vfm,cost vs benefit,,A,sentiment
+1,vfm,cost factor,,A,sentiment
+1,vfm,cost vs,,A,sentiment
+1,vfm,price,,A,sentiment
+1,vfm,partial payment,,A,sentiment
+1,vfm,payment,,A,sentiment
+1,vfm,price tag,,A,sentiment
+1,vfm,value rate,,A,sentiment
+1,vfm,purchase,,A,sentiment
+1,vfm,pocket,,A,sentiment
+1,warranty,warranty,,A,sentiment
+1,warranty,warranty card,,A,sentiment
+1,warranty,warranty period,,A,sentiment
+1,warranty,warrenty,,A,sentiment
+1,body-parts,itching,negative,AS,sentiment
+1,body-parts,itchy,negative,AS,sentiment
+1,body-parts,swelling,negative,AS,sentiment
+1,competitors-others,We try to provide as competitive rates as we can when compared to our competitors!,negative,AS,sentiment
+1,deals-offers,steal deal thanks,positive,AS,sentiment
+1,deals-offers,steal deal,positive,AS,sentiment
+1,deals-offers,Best deal,positive,AS,sentiment
+1,deals-offers,fair deal,positive,AS,sentiment
+1,deals-offers,steal,positive,AS,sentiment
+1,death,died,negative,AS,sentiment
+1,death,death,negative,AS,sentiment
+1,death,die,negative,AS,sentiment
+1,death,dies,negative,AS,sentiment
+1,delivery-charges,take 45rs delivery,negative,AS,sentiment
+1,delivery-charges,delivery charges negative,negative,AS,sentiment
+1,delivery-charges,delivery charges extra,negative,AS,sentiment
+1,delivery-charges,more shipping charges,negative,AS,sentiment
+1,delivery-charges,much shipping charge,negative,AS,sentiment
+1,delivery-charges,free delivery,positive,AS,sentiment
+1,delivery,timely,positive,AS,sentiment
+1,delivery,delivery ontime,positive,AS,sentiment
+1,delivery,fast delivery,positive,AS,sentiment
+1,delivery,faster delivery,positive,AS,sentiment
+1,delivery,fastest delivery,positive,AS,sentiment
+1,delivery,fst dlvery,positive,AS,sentiment
+1,delivery,prompt delivery,positive,AS,sentiment
+1,delivery,quick delivery,positive,AS,sentiment
+1,delivery,speedy delivery,positive,AS,sentiment
+1,dental-health,prevent tartar buildup,positive,AS,sentiment
+1,dental-health,tartar-free,positive,AS,sentiment
+1,display-image,image differs,negative,AS,sentiment
+1,display-image,matched demo image,positive,AS,sentiment
+1,ease-of-intake,throw-up,negative,AS,sentiment
+1,ease-of-intake,vomitting,negative,AS,sentiment
+1,ease-of-intake,digestable,positive,AS,sentiment
+1,ease-of-intake,digestible,positive,AS,sentiment
+1,ease-of-intake,digestive,positive,AS,sentiment
+1,effect-on-stomach,bloated,negative,AS,sentiment
+1,effect-on-stomach,puking,negative,AS,sentiment
+1,effect-on-stomach,loose motion,negative,AS,sentiment
+1,effect-on-stomach,loose-motion,negative,AS,sentiment
+1,effect-on-stomach,loose motions,negative,AS,sentiment
+1,effect-on-stomach,constipated,negative,AS,sentiment
+1,effect-on-stomach,constipation,negative,AS,sentiment
+1,effect-on-stomach,diarrhoea,negative,AS,sentiment
+1,effect-on-stomach,dirahhea,negative,AS,sentiment
+1,effect-on-stomach,bloated,negative,AS,sentiment
+1,etailers,cheaters,negative,AS,sentiment
+1,etailers,cheaters flipkart,negative,AS,sentiment
+1,etailers,cheap flip kart,negative,AS,sentiment
+1,etailers,cheaters,negative,AS,sentiment
+1,etailers,cheaters flipkart,negative,AS,sentiment
+1,etailers,appreciating flipkart,positive,AS,sentiment
+1,food-eatability,chewy,positive,AS,sentiment
+1,food-eatability,chew-able,positive,AS,sentiment
+1,food-eatability,chewable,positive,AS,sentiment
+1,food-eatability,crunchy,positive,AS,sentiment
+1,food-eatability,crumbly,positive,AS,sentiment
+1,food-ingredients,filler,negative,AS,sentiment
+1,food-ingredients,fillers,negative,AS,sentiment
+1,food-quality,stale,negative,AS,sentiment
+1,food-quality,stink,negative,AS,sentiment
+1,food-quality,stinking,negative,AS,sentiment
+1,food-quality,unregulated,negative,AS,sentiment
+1,food-quality,garbage,negative,AS,sentiment
+1,food-quality,rotten,negative,AS,sentiment
+1,food-quality,artificial,negative,AS,sentiment
+1,food-quality,quality issues,negative,AS,sentiment
+1,food-quality,garbage,negative,AS,sentiment
+1,food-quality,rotten,negative,AS,sentiment
+1,food-quality,artificial,negative,AS,sentiment
+1,food-quality,poison,negative,AS,sentiment
+1,food-quality,poisoning,negative,AS,sentiment
+1,food-quality,organic,positive,AS,sentiment
+1,food-quality,all-organic,positive,AS,sentiment
+1,food-quality,fresh food,positive,AS,sentiment
+1,food-quality,unadulterated,positive,AS,sentiment
+1,health-allergy,allergic,negative,AS,sentiment
+1,health-allergy,allergy,negative,AS,sentiment
+1,health-ill,sick,negative,AS,sentiment
+1,health-ill,seriously ill,negative,AS,sentiment
+1,health-ill,ill,negative,AS,sentiment
+1,health-ill,admitted to hospital,negative,AS,sentiment
+1,health-toxic,choking,negative,AS,sentiment
+1,health-toxic,dangerous,negative,AS,sentiment
+1,health-toxic,toxic,negative,AS,sentiment
+1,health-toxic,harmful,negative,AS,sentiment
+1,health-toxic,chocking,negative,AS,sentiment
+1,health-toxic,carcinogenic,negative,AS,sentiment
+1,health-toxic,chock,negative,AS,sentiment
+1,health-toxic,poison,negative,AS,sentiment
+1,health-toxic,hazard,negative,AS,sentiment
+1,health-toxic,tumerous,negative,AS,sentiment
+1,health-toxic,toxins/harmful,negative,AS,sentiment
+1,health-toxic,vomited,negative,AS,sentiment
+1,health-toxic,nauseous,negative,AS,sentiment
+1,health-toxic,hazardous,negative,AS,sentiment
+1,health-vomit,vomiting,negative,AS,sentiment
+1,health-vomit,vomited,negative,AS,sentiment
+1,health-vomit,vomit,negative,AS,sentiment
+1,health-vomit,vomitting,negative,AS,sentiment
+1,health,unhealthy,negative,AS,sentiment
+1,health,gnawing,negative,AS,sentiment
+1,health,non-healthy,negative,AS,sentiment
+1,health,nourish,positive,AS,sentiment
+1,health,nourishing,positive,AS,sentiment
+1,health,healthy,positive,AS,sentiment
+1,health,curing,positive,AS,sentiment
+1,infested-food,insect,negative,AS,sentiment
+1,infested-food,worms,negative,AS,sentiment
+1,infested-food,worm,negative,AS,sentiment
+1,infested-food,fungus,negative,AS,sentiment
+1,infested-food,fungus,negative,AS,sentiment
+1,infested-food,infested,negative,AS,sentiment
+1,infested-food,insects,negative,AS,sentiment
+1,infested-food,worm,negative,AS,sentiment
+1,infested-food,worms,negative,AS,sentiment
+1,infested-food,bug,negative,AS,sentiment
+1,infested-food,bugs,negative,AS,sentiment
+1,likability,did not like,negative,AS,sentiment
+1,likability,didn’t liked,negative,AS,sentiment
+1,likability,didnt liked,negative,AS,sentiment
+1,likability,didnt like,negative,AS,sentiment
+1,likability,does not like,negative,AS,sentiment
+1,likability,stop eating,negative,AS,sentiment
+1,likability,stopped eating,negative,AS,sentiment
+1,likability,didnt eat,negative,AS,sentiment
+1,likability,did not eat,negative,AS,sentiment
+1,likability,not eating,negative,AS,sentiment
+1,likability,not eat,negative,AS,sentiment
+1,likability,pawing,positive,AS,sentiment
+1,likability,drooling,positive,AS,sentiment
+1,likability,irresistible,positive,AS,sentiment
+1,likability,addicting,positive,AS,sentiment
+1,likability,enticing,positive,AS,sentiment
+1,likability,lugging,positive,AS,sentiment
+1,likability,smacking,positive,AS,sentiment
+1,likability,wagging,positive,AS,sentiment
+1,likability,begging,positive,AS,sentiment
+1,likability,smiling,positive,AS,sentiment
+1,likability,appetizing,positive,AS,sentiment
+1,likability,devouring,positive,AS,sentiment
+1,nutritional-information,nutritious,positive,AS,sentiment
+1,nutritional-information,nutritional,positive,AS,sentiment
+1,oral-health,breath fresh,positive,AS,sentiment
+1,packaging,torn,negative,AS,sentiment
+1,packaging,open/torn,negative,AS,sentiment
+1,packaging,torned,negative,AS,sentiment
+1,packaging,unsealed,negative,AS,sentiment
+1,packaging,leaking,negative,AS,sentiment
+1,packaging,tear,negative,AS,sentiment
+1,packaging,scratches,negative,AS,sentiment
+1,packaging,packet is opened,negative,AS,sentiment
+1,packaging,packet is open,negative,AS,sentiment
+1,packaging,broken conditions,negative,AS,sentiment
+1,packaging,came broken,negative,AS,sentiment
+1,packaging,broken,negative,AS,sentiment
+1,packaging,open,negative,AS,sentiment
+1,packaging,opened,negative,AS,sentiment
+1,packaging,tampered pack,negative,AS,sentiment
+1,packaging,big hole,negative,AS,sentiment
+1,packaging,tampered,negative,AS,sentiment
+1,packaging,re-zippable,positive,AS,sentiment
+1,packaging,secure packaging,positive,AS,sentiment
+1,packaging,packaging sufficient,positive,AS,sentiment
+1,packaging,sturding packaging,positive,AS,sentiment
+1,packaging,travel friendly packaging,positive,AS,sentiment
+1,price,high-priced,negative,AS,sentiment
+1,price,overpriced,negative,AS,sentiment
+1,price,costly,negative,AS,sentiment
+1,price,over-priced,negative,AS,sentiment
+1,price,price - negative,negative,AS,sentiment
+1,price,expensive,negative,AS,sentiment
+1,price,badly priced,negative,AS,sentiment
+1,price,bit expensive,negative,AS,sentiment
+1,price,bit pricey,negative,AS,sentiment
+1,price,can be a bit pricey,negative,AS,sentiment
+1,price,damn costly,negative,AS,sentiment
+1,price,high price,negative,AS,sentiment
+1,price,high prices,negative,AS,sentiment
+1,price,inflated price,negative,AS,sentiment
+1,price,insanely expensive,negative,AS,sentiment
+1,price,over priced,negative,AS,sentiment
+1,price,overpriced,negative,AS,sentiment
+1,price,pricey,negative,AS,sentiment
+1,price,too expensive,negative,AS,sentiment
+1,price,too pricey,negative,AS,sentiment
+1,price,slightly cheaper,negative,AS,sentiment
+1,price,cost-competitive,positive,AS,sentiment
+1,price,cheapest,positive,AS,sentiment
+1,price,inexpensive,positive,AS,sentiment
+1,price,cheap rate,positive,AS,sentiment
+1,price,low price,positive,AS,sentiment
+1,price,low cost,positive,AS,sentiment
+1,price,cost effective,positive,AS,sentiment
+1,price,cheap price,positive,AS,sentiment
+1,price,affordable cost,positive,AS,sentiment
+1,price,affordable price,positive,AS,sentiment
+1,price,affordable prices,positive,AS,sentiment
+1,price,affordable rates,positive,AS,sentiment
+1,price,reasonable cost,positive,AS,sentiment
+1,price,reasonable price,positive,AS,sentiment
+1,price,reasonable priced,positive,AS,sentiment
+1,price,reasonable prices,positive,AS,sentiment
+1,price,reasonable rate,positive,AS,sentiment
+1,price,reasonable rates,positive,AS,sentiment
+1,price,moderate budget,positive,AS,sentiment
+1,price,moderate price,positive,AS,sentiment
+1,price,moderately priced,positive,AS,sentiment
+1,price,reduced price,positive,AS,sentiment
+1,price,reduced rate,positive,AS,sentiment
+1,price,relatively cheap,positive,AS,sentiment
+1,price,relatively cheaper,positive,AS,sentiment
+1,price,relatively reasonably priced,positive,AS,sentiment
+1,price,reasonable,positive,AS,sentiment
+1,price,affordable,positive,AS,sentiment
+1,price,such a low price,positive,AS,sentiment
+1,price,penny,positive,AS,sentiment
+1,price,much cheaper rate,positive,AS,sentiment
+1,price,cheaper rate,positive,AS,sentiment
+1,price,at cheaper rates,positive,AS,sentiment
+1,price,price worth,positive,AS,sentiment
+1,price,cheaper rates,positive,AS,sentiment
+1,price,lowest price,positive,AS,sentiment
+1,price,cheap pricing,positive,AS,sentiment
+1,price,significantly cheaper,positive,AS,sentiment
+1,price,priced accordingly,positive,AS,sentiment
+1,price,priced reasonably,positive,AS,sentiment
+1,price,save lil money,positive,AS,sentiment
+1,price,less expensive,positive,AS,sentiment
+1,product-condition-damaged,damaged,negative,AS,sentiment
+1,product-condition-damaged,damage,negative,AS,sentiment
+1,product-condition,expiration,negative,AS,sentiment
+1,product-condition,expire,negative,AS,sentiment
+1,product-condition,expired,negative,AS,sentiment
+1,product-condition,expired,negative,AS,sentiment
+1,product-duplicate,duplicate,negative,AS,sentiment
+1,product-duplicate,fake product,negative,AS,sentiment
+1,product-duplicate,fake,negative,AS,sentiment
+1,product-duplicate,genuine,positive,AS,sentiment
+1,product-durability,pack lasts,positive,AS,sentiment
+1,product-durability,product lasts long,positive,AS,sentiment
+1,product-durability,product lasts,positive,AS,sentiment
+1,product-durability,durable,positive,AS,sentiment
+1,product-overall,trash can,negative,AS,sentiment
+1,product-overall,non-value,negative,AS,sentiment
+1,product-overall,discontinuing,negative,AS,sentiment
+1,product-overall,duplicate,negative,AS,sentiment
+1,product-overall,reordering,negative,AS,sentiment
+1,product-overall,one star,negative,AS,sentiment
+1,product-overall,two star,negative,AS,sentiment
+1,product-overall,2 star,negative,AS,sentiment
+1,product-overall,1 star,negative,AS,sentiment
+1,product-overall,one stars,negative,AS,sentiment
+1,product-overall,two stars,negative,AS,sentiment
+1,product-overall,worthy,positive,AS,sentiment
+1,product-overall,certified,positive,AS,sentiment
+1,product-overall,authentic,positive,AS,sentiment
+1,product-overall,reordering,positive,AS,sentiment
+1,product-overall,recommended,positive,AS,sentiment
+1,product-overall,recommend,positive,AS,sentiment
+1,product-overall,five stars,positive,AS,sentiment
+1,product-overall,five star,positive,AS,sentiment
+1,product-overall,4 stars,positive,AS,sentiment
+1,product-overall,5 star,positive,AS,sentiment
+1,product-overall,5 stars,positive,AS,sentiment
+1,product-overall,four stars,positive,AS,sentiment
+1,product-overall,four star,positive,AS,sentiment
+1,product-overall,4 star,positive,AS,sentiment
+1,product-overall,3 stars,positive,AS,sentiment
+1,product-overall,3 star,positive,AS,sentiment
+1,product-overall,three stars,positive,AS,sentiment
+1,product-overall,three star,positive,AS,sentiment
+1,replacement,replacement plzzz,negative,AS,sentiment
+1,replacement,replacement please,negative,AS,sentiment
+1,replacement,replacement plz,negative,AS,sentiment
+1,replacement,no replacement,negative,AS,sentiment
+1,seller,seller cheated,negative,AS,sentiment
+1,service,improve your services,negative,AS,sentiment
+1,service,Buy Poor service,negative,AS,sentiment
+1,service,cancellation replacement,negative,AS,sentiment
+1,service,customers are fool,negative,AS,sentiment
+1,service,received,positive,AS,sentiment
+1,service,receive,positive,AS,sentiment
+1,service,receivd,positive,AS,sentiment
+1,service,recived,positive,AS,sentiment
+1,smell,smelly,negative,AS,sentiment
+1,smell,odors,negative,AS,sentiment
+1,smell,smells bad,negative,AS,sentiment
+1,smell,aroma,positive,AS,sentiment
+1,smell,fragrant,positive,AS,sentiment
+1,smell,odorless,positive,AS,sentiment
+1,taste,tasteless,negative,AS,sentiment
+1,taste,savory,positive,AS,sentiment
+1,taste,mouth-watering,positive,AS,sentiment
+1,taste,savoring,positive,AS,sentiment
+1,taste,palatable,positive,AS,sentiment
+1,taste,yummy,positive,AS,sentiment
+1,taste,delicious,positive,AS,sentiment
+1,taste,scrumptious,positive,AS,sentiment
+1,taste,tasteful,positive,AS,sentiment
+1,taste,salivating,positive,AS,sentiment
+1,texture-style,discolored,negative,AS,sentiment
+1,texture-style,no color,negative,AS,sentiment
+1,texture-style,foamy,positive,AS,sentiment
+1,vfm,not worth,negative,AS,sentiment
+1,vfm,resealable,positive,AS,sentiment
+1,vfm,economical,positive,AS,sentiment
+1,vfm,discounted,positive,AS,sentiment
+1,vfm,affordably,positive,AS,sentiment
+1,vfm,afforable,positive,AS,sentiment
+1,vfm,economical,positive,AS,sentiment
+1,vfm,worth buying,positive,AS,sentiment
+1,vfm,good value,positive,AS,sentiment
+1,vfm,good value for money,positive,AS,sentiment
+1,vfm,good value proposition,positive,AS,sentiment
+1,vfm,really good value for money,positive,AS,sentiment
+1,vfm,represents good value for money,positive,AS,sentiment
+1,vfm,represents good value,positive,AS,sentiment
+1,vfm,cheaper prices,positive,AS,sentiment
+1,vfm,negotiated rate,positive,AS,sentiment
+1,vfm,real value for money,positive,AS,sentiment
+1,vfm,reasonably priced,positive,AS,sentiment
+1,vfm,total value for money,positive,AS,sentiment
+1,vfm,true value for money,positive,AS,sentiment
+1,vfm,value for what you get,positive,AS,sentiment
+1,vfm,value for your money,positive,AS,sentiment
+1,vfm,value for money,positive,AS,sentiment
+1,vfm,cheapest,positive,AS,sentiment
+1,vfm,pocket frndly,positive,AS,sentiment
+1,vfm,pocket friendly,positive,AS,sentiment
+1,vfm,budget friendly,positive,AS,sentiment
+1,vfm,worth every penny,positive,AS,sentiment
+1,vfm,worth,positive,AS,sentiment
+1,vfm,worthy,positive,AS,sentiment

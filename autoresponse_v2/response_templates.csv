@@ -1,0 +1,484 @@
+brand,aspect,sentiment,template_response,status
+,body-parts-eyes,negative,"A gentle wipe with a damp cotton ball will help to keep your dog's eyes gunk-free. Wipe outward from the corner of the eye and be careful not to touch his eyeball-you don‰Ûªt want to scratch the cornea. If your dog constantly suffers from runny eyes and discharge, please see your veterinarian. Your pet may have an infection.",R
+,body-parts-muscles,negative,"Pedigree ensures that your dog is provided with all the vitamins, minerals, essential fatty acids, proteins, carbohydrates and fibre your dog needs for healthy muscle development.",R
+,body-parts-muscles,negative,"We guarantees that your dog is given every one of the vitamins, minerals, basic unsaturated fats, proteins, starches and fiber your canine require for solid muscle improvement.",R
+,body-parts-paws,negative,"Dogs with diabetes may exhibit signs of back leg weakness, although this symptoms is more common in diabetic cats. Please consult a vet.",R
+,body-parts-skin,negative,"As food is always not the reason behind the health issues especially hair loss, the culprit can be dog's unique hair growth cycle and seasonal hair shedding or dogs also may shed excessive hair because of stress, harsh climate and general illness or some medical conditions such as thyroid disease or skin allergies can cause excessive shedding. Some tips to prevent or reduce hair shedding includes: - 1. Brush, brush, brush : A daily brushing works best because it helps to get rid of all of your dog's loose hair. If you can't brush him every day, aim for at least two good brushings per week.  2. Give him a bath : Bathing your dog regularly with a rich oatmeal shampoo will help to keep his coat healthy, without leaving his skin dry. A healthy coat is less likely to have a lot of loose hair to shed.3. Feed him a high quality diet : A diet that is rich in fatty acids, minerals like Zinc and digestible proteins will keep your dog's coat strong and healthy, and will help decrease excessive shedding. Eg., Pedigree active for adult dogs",R
+,body-parts-skin,negative,"As sustenance is dependably not the purpose for the medical problems particularly hair problems, the reason can be dog's novel hair development cycle and regular hair shedding or pooches additionally may shed over the top hair due to pressure, cruel atmosphere and general sickness or some therapeutic conditions, for example, thyroid illness or skin hypersensitivities can cause exorbitant shedding. A few hints to avoid or decrease hair shedding incorporates: - 1. Brush, brush, brush : A day by day brushing works best since it disposes of the majority of your pooch's free hair. On the off chance that you can't brush him consistently, go for no less than two great brushings for every week. 2. Give him a shower : Bathing your puppy consistently with a rich oats cleanser will keep his jacket sound, without leaving his skin dry. A solid coat is more averse to have a great deal of free hair to shed. 3. Encourage him a great eating routine : An eating routine that is rich in unsaturated fats, minerals like Zinc and absorbable proteins will keep your puppy's jacket solid and sound, and will help diminish over the top shedding. Eg., Pedigree dynamic for grown-up canines",R
+,body-parts-skin,negative,"A diet that is rich in fatty acids, minerals like Zinc and digestible proteins will keep your dog's coat strong and healthy, and will help decrease excessive shedding. Eg., Pedigree active for adult dogs",R
+,body-parts-skin,negative,"Food is not always the reason behind skin problems of your pet. If you feed food like raw eggs repeatedly, can cause skin problem.But if that's not the issue we are always here to serve you.",R
+,body-parts,negative,"No single ingredient/ source of diet will provide all the nutrients and energy requirement of a dog. For eg., Cereals are rich in some vitamins but lack many nutrients required for a dog or puppy. Meat is rich source of proteins but low in Calcium and Vitamin A. Like wise Milk is low in iron and Vitamin D. Dogs can not tolerate too much of milk in their diet. A 7 kg body weight dog can tolerate up to 250 ml of milk and anything excess lead to loose stools. Raw eggs should not be fed to dogs as it can lead to poor skin and hair coat. Nutrients like biotin are not utilized in the body. Raw eggs are also source of infections like salmonella which can cause severe gastroenteritis in dogs.",R
+,body-parts,negative,"I would suggest you to select which type of food will suit your dog. Here are few guidelines:- Your dog's calorie and nutrient requirements are based on his body weight, his age, his physiological state (growing, pregnant or lactating?) and his activity level. First select the right type of food for his lifestyle, then weigh your dog (don't guess) and feed according to the feeding guide provided with the food. It is, however, important to remember that all dogs are individuals and feeding guides are recommendations only. So, most importantly, monitor your dog's body condition and weight regularly, adjusting the amount you are feeding to ensure that body weight and condition are optimum so that he is neither losing nor gaining weight.",R
+,body-parts,positive,We are happy that the product had a positive effect on your pets physical appearance.,R
+,competitors-others,negative,We try to provide as competitive rates as we can when compared to our competitors!,R
+,competitors-others,positive,Glad that we could been the competitors.,R
+,competitors,negative,We make sure that we are always competitively ahead of everyone else.,R
+,competitors,positive,Happy to know that we are better than the competition.,R
+,complementary,negative,We regret that you didn't like the complementary item.,R
+,complementary,negative,Our gifts are a way to appreciate our customers loyalty towards to us.,R
+,complementary,negative,The goodies from us are a small token of appreciation.,R
+,complementary,negative,Complementary items for us are a way to thank our beloved customers.,R
+,complementary,positive,We are happy that our little present was liked by you!,R
+,customer-care,negative,Serving our customers is our first priority.,R
+,customer-care,negative,Our customer care is always dedicated on helping our esteemed customers we regret that it couldn't meet your expectations.,R
+,customer-care,negative,"We are always attentive while listening to our customers and helping them out, regret we couldn't live upto the mark this time around.",R
+,customer-care,negative,"We have been always attentive while hearing our customers and helping them out, regret we couldn't live upto the potential on this occasion.",R
+,customer-care,negative,Our customer support is constantly committed on helping our regarded clients we regret that it couldn't live up to your desires.,R
+,customer-care,negative,"We are constantly mindful while tuning in to our customers and helping them out, regret we couldn't live upto the mark this time around.",R
+,customer-care,positive,Glad that you liked our customer care.,R
+,deals-offers,negative,"Our deals and prices are the best available, we hope you can avail more in the future.",R
+,deals-offers,negative,We try and provide the best deals and prices to our esteemed customers.,R
+,deals-offers,negative,"Our deals and prices are the best accessible, we trust you can benefit more later on.",R
+,deals-offers,negative,We attempt and give the best deals and prices to our regarded clients.,R
+,deals-offers,positive,Glad that you liked the deal!,R
+,death,negative,We are deeply saddened to hear about this.,R
+,delivery-charges,negative,The extra delivery charges help us get the product to you quickly.,DR
+,delivery-charges,negative,"Extra delivery charges are for us to mitigate the transport cost. If you want to avoid them in the future, you can buy our products of worth Rs. 500 which will give you free shipping.",DR
+,delivery-charges,negative,"When items are purchased in small quantities, it becomes essential for us to charge us for the delivery.",DR
+,delivery-charges,negative,Please place orders of worth 500 or more to ensure you are not charged for the shipping.,DR
+,delivery-charges,negative,"Shipping costs are really essential for us to keep the rates competitive, if you want to get rid of them please place orders worth more than 500.",DR
+,delivery-charges,negative,"We always try and charge minimal delivery charges, but still if you want to get rid of them place order worth greater than Rs. 500.",DR
+,delivery-charges,negative,"Transit costs are always separate from product prices and charged as part of our delivery services, if you want to avoid them please place order of more than Rs. 500.",DR
+,delivery-charges,negative,The additional conveyance charges enable us to get the item to you rapidly.,DR
+,delivery-charges,negative,"Additional conveyance charges are for us to moderate the vehicle cost. In the event that you do not want them later on, you can purchase our items of worth Rs. 500 which will give you free transporting.",DR
+,delivery-charges,negative,"At the point when products are bought in little amounts, it  is essential for us to charge us for the conveyance.",DR
+,delivery-charges,negative,It would be ideal if you put requests of worth at least 500 to guarantee you are not charged for the delivery.,DR
+,delivery-charges,negative,"Delivery costs are extremely fundamental for us to keep the rates aggressive, on the off chance that you need to avoid them please put orders worth more than 500.",DR
+,delivery-charges,negative,"We generally attempt and charge negligible conveyance charges, yet at the same time on the off chance that you need to get rid of them put orders worth more than Rs. 500.",DR
+,delivery-charges,negative,"Travel costs are constantly separate from item costs and charged as a component of our conveyance administrations, in the event that you need to keep away from them please put orders of more than Rs. 500.",DR
+,delivery-charges,negative,The excess delivery charges allow us to get the product to you quickly.,DR
+,delivery-charges,negative,"Extra delivery charges are for us to mitigate the transport cost. In order to stay away from them down the road, you can purchase our products of worth Rs. 500 which will provide you with free delivery.",DR
+,delivery-charges,negative,"When products are ordered in small quantities, it is important for us to charge us for that delivery.",DR
+,delivery-charges,negative,Please place orders of worth 500 or higher to be sure you aren't charged for the shipping.,DR
+,delivery-charges,negative,"Shipping costs are really required for us to maintain the rates competitive, if you wish to eliminate them please place orders more significant than Rs. 500.",DR
+,delivery-charges,negative,"We always make an attempt to charge minimal delivery charges, however if you wish to make them go away place orders in excess of Rs. 500.",DR
+,delivery-charges,negative,"Transit costs are always outside of product prices and charged within our delivery services, if you wish to avoid them please place order of more than Rs. 500.",DR
+,delivery-charges,positive,We are happy that you liked our delivery charges policy!,R
+,delivery-executive,negative,"Our delivery executives are generally very professional, we apologise for the inconvenience caused by them.",DR
+,delivery-executive,negative,"Our delivery personnel take great care while delivering the products, regret inconvenience caused by them.",DR
+,delivery-executive,positive,Our delivery network gives priority to getting the product timely to our customers. Glad that you are happy with the delivery.,R
+,delivery,negative,We take utmost care while delivering the products both in terms of time and safety.,DR
+,delivery,negative,We take most outrageous care while passing on the things both to the extent time and security.,DR
+,delivery,negative,We take most ludicrous care while passing on the things both to the degree time and security.,DR
+,delivery,negative,We take utmost care at the same time as delivering the goods each in phrases of time and safety.,DR
+,delivery,negative,We take utmost care at the equal time as turning in the goods every in terms of time and protection.,DR
+,delivery,negative,We take absolute care at the equivalent time as handing over the merchandise each regarding time and assurance.,DR
+,delivery,negative,We take sheer care at the comparable time as giving over the stock each with respect to time and confirmation.,DR
+,delivery,negative,We always hate when that happens and promise to make your shopping experience as smooth as possible.,DR
+,delivery,negative,We abhor when that happens and assurance to influence your shopping to involvement as smooth as could sensibly be normal.,DR
+,delivery,negative,"We are very disappointed to read your experience. Whilst an apology will regrettably not alter the outcome of your experience regarding our delivery, we do extent it will all sincerity.",DR
+,delivery,negative,"We are exceptionally disillusioned to peruse your experience. While an expression of remorse will deplorably not adjust the result of your experience with respect to our conveyance, we do degree it will all truthfulness.",DR
+,delivery,negative,"We value ourselves in delivering the products on time and safely. So, we trust you will give us a chance to correct this misstep.",DR
+,delivery,negative,"We pride ourselves in maintaining the highest quality standards for our customers. So, we hope you will give us an opportunity to rectify this mistake.",DR
+,delivery,positive,Our delivery network gives priority to getting the product timely to our customers. Glad that you are happy with the delivery.,R
+,dental-health,negative,Our products contains Phosphorus and Calcium which  helps in optimum development of Bone and Teeth of the dog. We hope that you will find our product useful in the future.,R
+,dental-health,negative,Our products contains Phosphorus and Calcium which works well for optimum {development of|growth and development of Bone and Teeth of your pet. Hopeful that you will find our product useful in the foreseeable future.,R
+,dental-health,negative,Our items contains Phosphorus and Calcium which helps in ideal improvement of Bone and Teeth advancement of the puppy. We trust that you will discover our item valuable later on.,R
+,dental-health,negative,Our product contains Phosphorus and Calcium which helps in perfect change of Bone and Teeth progression of the puppy. We hope that you will find the product important later on.,R
+,dental-health,negative,"We work closely with the experts at the WALTHA Centre for Pet Nutrition to develop great quality, nutritious food that increases the oral health of the dogs. Please try our products specially designed for improving the oral healh of the dog.",R
+,dental-health,negative,"We work closely with the specialists at the WALTHA Center for Pet Nutrition to create awesome quality, nutritious sustenance that increases the oral soundness of the pets. If it's not too much trouble attempt our items extraordinarily intended for enhancing the oral health of the teeth.",R
+,dental-health,negative,"We work closely with the specialists at the WALTHA Center for Pet Nutrition to make awesome quality, nutritious sustenance that enhances the oral soundness of the dogs. If it's not excessive trouble attempt our items extraordinarily created for improving the wellness of the teeth.",R
+,dental-health,negative,"We are sure that if you try our Dog Dental Care products like DenatStix, you will find them worth it and they will decrease your dogs dental problems. DentaStix efficacy is delivered by a unique combination of a special cleaning texture and active ingredients. Gentle abrasive texture helps remove plaque, thereby reducing tartar build-up. Sustained chewing stimulates saliva flow, which helps wash away any debris. Dentastix contains special ingrdients Sodium Tripolyphosphate & Zinc Sulphate help to slow down build up and accumation of tartar. Denatstix is clinically Proven to reduce Plaque & tartar by up to 80% when used daily and is developed by WALTHAM the worlds leading authority on Pet Care & Nutrition.",R
+,dental-health,negative,"As found by our research team that every 4 out of 5 of dogs over the age of 3 years have gum disease. This is caused by plaque and tartar build-up around the gum line, which can be reduced by an effective dental care routine. No kind of food can be responsible for that. I would suggest you to try our Dog Dental Care products and routine to give your dog a better dental health.",R
+,dental-health,negative,"As found by our research group that each 4 out of 5 of dogs beyond 3 years have gum sickness. This is caused by plaque and tartar developed around the gum line, which can be decreased by a compelling dental care schedule. No sort of nourishment can be in charge of that. I would recommend you to attempt our Dog Dental Care items and routine to give your dog a superior dental wellbeing.",R
+,dental-health,negative,"As studied by our research amass that every 4 out of 5 of dogs past 3 years of age years have gum affliction. This is caused by plaque and tartar created around the gum line, which can be diminished by a convincing dental care plan. No kind of food can be accountable for that. I would prescribe you to try our Dog Dental Care things and routine to give your dog a predominant dental prosperity.",R
+,dental-health,negative,"As discovered by our research group that 4 of every 5 dogs beyond 3 years have gum sickness. This is because of the plaque and tartar developed around the gum line, that can be decreased by a compelling dental hygiene| schedule. No type of nourishment can be in responsible that.I would suggest you to attempt our Dental Treatments items and routine to provide your dog an exceptional dental wellbeing.",R
+,dental-health,negative,"We know how important is the dental health for any pet , so we make sure to add ingedients that freshen breath and reduce VSCs that cause bacteria in the dog's mouth.",R
+,dental-health,negative,#NAME?,R
+,dental-health,negative,"As food is always not the reason behind the health issues especially dental, one of the reasons can be as dog mouth do not contain bugs which are responsible for caries in man and also Dogs saliva is alkaline and has less amylase enzyme and more urea (that digest sugars) in saliva (when compare to man) How ever plaque and gums diseases are very common in dogs. Regular feeding of oral chews like dentastix also recommended for preventing dental plaque or tartar",R
+,dental-health,negative,Please keep one thing in mind that occasional feeding of snacks/treats like ice creams or cakes cause no harm as long as they do not contribute to more than 15 % of his energy requirement/food intake.,R
+,dental-health,negative,Foods containing chocolate are toxic to dogs and large amount make them sick and some dogs may die eating chocolates.,R
+,dental-health,negative,"As seen that dogs enjoy bones, and chewing bones is seen as a good way to exercise the dog's jaws, help to keep his teeth clean, and of course will keep him occupied for hours.",R
+,dental-health,negative,"Please be careful when allwoing your dog to chew on bones as your dog can also injure his teeth on bones, and when ingesting parts of bones he can develop constipation with the development of very hard faeces that are difficult and painful to pass",R
+,dental-health,positive,Happy to know that the teeth are glowing!,R
+,display-image,negative,The difference in the image might be due to the lightning effect while the picture was taken. Rest assured the product delivered are 100% original and as displayed.,R
+,display-image,negative,"The products are exactly the same are displayed in the image, the slight difference might be due to the way the photograph was taken.",R
+,display-image,negative,"Our images contain the product we are selling, please be assured that there's difference between them.",R
+,display-image,negative,"Images are a way for us to show what we are offering, we wouldn't forge them, please be convinced that they are what we sent to you!",R
+,display-image,positive,The images we show are exactly as they appear!! Happy that you too felt the same! :),R
+,dog-user-breed,negative,We are sorry that you didn't like the product.,R
+,dog-user-breed,negative,We apologize for the product not being upto your standards. We take utmost care while making them.,R
+,dog-user-breed,negative,"We are sorry that the product didn't meet your expectations. You should try out our other products, we are confident that you'll end up liking them!",R
+,dog-user-breed,negative,Our priority is to make sure our customers have a great experience with our products! Please let us know how we can improve.,R
+,dog-user-breed,positive,Thanks a lot for your positive feedback! We are happy that your pet likes pedigree!,R
+,ease-of-intake,negative,"Every product of pedigree under go series of tests on safety, digestibility and palatability before released in to the market. The palatability tests are done in a consumer panel having more than 300 dogs from pet owners.",R
+,ease-of-intake,negative,We include vegetable derivatives and cereals in our products to optimise the transit time of food through the gut. This supports the necessary absorption of nutrients through the digestive tract.,R
+,ease-of-intake,negative,"Cereals such as wheat, corn and rice are a source of carbohydrate. Scientific research shows that the cereals in our food are beneficial, as a source of energy from carbohydrates, as well as fibre to promote a healthy digestive tract.",R
+,ease-of-intake,negative,All our products are highly digestible which can only be achieved with good quality ingredients and no fillers.,R
+,ease-of-intake,negative,We have strict specifications for the ingredients we use in our pet foods. We only purchase ingredients from suppliers that meet our rigorous approval process. All our pet foods must meet strict digestibility targets.,R
+,ease-of-intake,negative,"Every product of pedigree under go number of tests on safety, digestibility and palatability before being released in the market. The palatability tests are carried out in a consumer panel having over 300 dogs from dog owners.",R
+,ease-of-intake,negative,"Cereals for example wheat, corn and rice contain carbohydrate. Scientific research signifies that the cereals within our food are beneficial, as an origin of energy from carbohydrates, in addition to fibre in promoting a healthy gastrointestinal system",R
+,ease-of-intake,positive,That's great to hear that pedigree is easily digestible.,R
+,effect-on-stomach,negative,"Please take care of your pet's stomach. At pedigree, we go through intensive tests and processes before launching the product, the bad stomach might be due to some other things.",R
+,effect-on-stomach,negative,"Some pet parents offer their pets human Pepto-bismol or Famotidine (Pepcid) for an upset tummy. These over the counter drugs can be safe, if administered minimally, at the proper dose. Be sure to ask your vet what the dosage should be for your dog.",R
+,effect-on-stomach,positive,Glad that your pet's tummy is healthy.,R
+,etailers,negative,Etailer and the sellers take great care of the product.,DR
+,etailers,negative,Etailer is always committed towards providing the best experience.,DR
+,etailers,negative,Regret that the Etailer service wasn't as expected. Will try and further improve ourselves.,DR
+,etailers,positive,We are happy that the you liked the service by Amazon and the seller.,R
+,feedback-request-3stars,negative,"Please provide us with some feedback, so that we can work on improving the products further.",R
+,feedback-request-4stars,negative,"Please provide us with some feedback, so that we can work on improving the products further.",R
+,feedback-request,negative,Please provide us with further information which can help us better the product.,R
+,feedback-request,negative,Can you please tell us what went wrong with product.,R
+,feedback-request,negative,It would be really helpful if you could provide us with more information.,R
+,feedback-request,negative,Your feedback will be really valuable in serving you better.,R
+,feedback-thanks,negative,"Dear customer name, Thanks for taking time in providing the feedback.",R
+,feedback-thanks,negative,"Dear customer name, Thanks for your valuable feedback.",R
+,feedback-thanks,negative,"Dear customer name, We appreciate you taking time to write to us.",R
+,feedback-thanks,negative,"Dear customer name, Your feedback will definitely help us, thanks for writing.",R
+,feedback-thanks,negative,"Dear customer name, Your input will help us, thanks for writing.",R
+,feedback-thanks,negative,"Dear customer name, We value your feedback and thank you for taking time in writing.",R
+,feedback-thanks,negative,"Dear customer name, Thanks for the feedback, it will certainly help us improve.",R
+,feedback-thanks,negative,We take your valuable words positively.,R
+,feedback-thanks,positive,Thanks for taking time in providing the feedback.,R
+,feedback-thanks,positive,Thanks for your valuable feedback.,R
+,feedback-thanks,positive,We appreciate you taking time to write to us.,R
+,feedback-thanks,positive,"Your feedback will definitely help us, thanks for writing.",R
+,feedback-thanks,positive,"Your input will help us, thanks for writing.",R
+,feedback-thanks,positive,We value your feedback and thank you for taking time in writing.,R
+,feedback-thanks,positive,"Thanks for the feedback, it will certainly help us improve.",R
+,feedback-thanks,positive,We take your valuable words positively.,R
+,food-condition,negative,"We regret that the food wasn't in the right condition, we will not repeat this and regret the incovenience it has caused.",R
+,food-condition,positive,Happy to know that the food condition was good.,R
+,food-eatability,negative,The food is of high quality and made in such a way that is easily eatable!,R
+,food-eatability,negative,Pedigree products are tasty dog chews rich in nutritions specifically designed for dogs.,R
+,food-eatability,negative,Pedigree chews are nutritionally complete and balanced for a wholesome snack.,R
+,food-eatability,negative,Pedigree chews are specially formulated to be highly digestible.,R
+,food-eatability,positive,Glad to know that the food easily eatable!,R
+,food-ingredients,negative,The ingredients we use are carefully picked such that they blend well together for your dog.,R
+,food-ingredients,negative,The ingredients we use are a careful blend to make sure they get along right.,R
+,food-ingredients,negative,"We are sorry that the ingredients couldn't get it right for your dog, please try our other products we are sure your dog will like them.",R
+,food-ingredients,negative,All our products are highly digestible which can only be achieved with good quality ingredients and no fillers.,R
+,food-ingredients,negative,"All the ingredients we use in pet food are there to fulfil a specific role such as providing nutrition, improving safety, enjoyment or owner satisfaction.",R
+,food-ingredients,negative,We have strict specifications for the ingredients we use in our pet foods. We only purchase ingredients from suppliers that meet our rigorous approval process.,R
+,food-ingredients,negative,It is Mars policy never to use low quality ingredients. We have strict specifications for our recipes and will never compromise on quality.,R
+,food-ingredients,negative,"The exact ingredients which affect a pet will vary between individuals, just as with people. Such pets may benefit from special diets with selected protein and carbohydrate sources, fed under veterinary advice, in order to avoid the specific ingredients which trigger their allergic response. However, such cases are in the minority and most dogs enjoy eating a variety of ingredients without any problems.",R
+,food-ingredients,negative,The ingredients list cannot be used to assess the quality of a dog food. The ingredients used should be of very high safety and quality as laid down by the regulatory bodies.,R
+,food-ingredients,negative,"The animal based materials used in pet foods come from animals which have passed veterinary inspections as fit for human consumption, but which are surplus to the requirements of the human food industry. These materials meet the very high safety and quality criteria laid down in the Animal By-Products Regulations Members only use materials from species which are accepted in the human food chain.",R
+,food-ingredients,negative,"The plant based materials some manufacturers may use include: cereals, cereal flour, pulses, root vegetables and seeds. In general, Pedigree contains whole grain cereals, meat and chicken by-products, cereal and vegetable by-products, proteins, vegetable oils, iodised salt,essential vitamins, minerals, preservatives, antioxidants and flavours.",R
+,food-ingredients,negative,"Ingredients matter to many pet owners rather than pets, resulting from some marketing claims or adverstiment ( For eg., does not contain soy, corn, or wheat) The final nutrient profile of a pet food is most important factor in meeting your pet‰Ûªs daily nutritional needs. Be assured our ingredients are of high quality and palatable.",R
+,food-ingredients,negative,The ingredients we utilize are carefully picked with the end goal that they mix well together for your dog.,R
+,food-ingredients,negative,The ingredients we utilize are a watchful mix to ensure they get along right.,R
+,food-ingredients,negative,"We are sad that the fixings couldn't take care of business for your dog, please attempt our different items we are certain your canine will like them.",R
+,food-ingredients,negative,Every one of our items are very edible which must be accomplished with great quality ingredients and no fillers.,R
+,food-ingredients,negative,"Every one of the fixings we use in pet nourishment are there to satisfy a particular part, for example, giving sustenance, enhancing safety, pleasure or owner fulfillment.",R
+,food-ingredients,negative,We have strict policies for the ingredients we use in our pet product. We just buy fixings from providers that meet our thorough endorsement process.,R
+,food-ingredients,negative,It is Mars policy never to utilize low quality ingredients. We have strict details for our formulas and will never bargain on quality.,R
+,food-ingredients,negative,"The animal based materials utilized as a part of pet nourishments originate from creatures which have passed veterinary examinations as fit for human utilization, however which are surplus to the prerequisites of the human food industry. These materials meet the high wellbeing and quality criteria set down in the Animal By-Products Regulations Members just utilize materials from species which are acknowledged in the human natural way of life.",R
+,food-ingredients,negative,"The plant based materials a few makers may utilize include: grains, oat flour, beats, root vegetables and seeds. Generally, Pedigree contains entire grain oats, meat and chicken side-effects, oat and vegetable side-effects, proteins, vegetable oils, iodised salt,essential vitamins, minerals, additives, cancer prevention agents and flavors.",R
+,food-ingredients,negative,"Ingredients matter to numerous pet proprietors as opposed to pets, coming about because of some showcasing cases or advertisement ( For eg., does not contain soy, corn, or wheat) The final supplement profile of a pet food is most vital factor in meeting your pet's every day nourishing requirements. Be guaranteed our ingredients are of high caliber.",R
+,food-ingredients,positive,Happy to know the ingredients carefully picked by us are liked by you guys!,R
+,food-quality,negative,We take utmost care in ensuring the top most quality of our food.,R
+,food-quality,negative,"Our pet food is designed to provide the nutrients your dog needs, and in addition, contain ingredients to support the five signs of good health.",R
+,food-quality,negative,We know it is vital that our dog food smells as fresh and appetising to dogs as possible. We only use the best quality approved ingredients to ensure our products are not only healthy but also very appealing to dogs.,R
+,food-quality,negative,We make sure that we live upto your expectations as all our raw materials are sourced from approved suppliers and our factories are independently inspected to the same standard as those used to produce human food.,R
+,food-quality,negative,"We regret that you are facing issues with the quality of the product, we will take this into consideration and hope to serve you better in future.",R
+,food-quality,negative,We try to serve with the best taste and the healthiest food for your dogs.,R
+,food-quality,negative,We take most extreme care in guaranteeing the best most nature of our nourishment.,R
+,food-quality,negative,"Our pet nourishment is intended to give the supplements your dogs needs, and moreover, contain ingredients to help the five signs of good wellbeing.",R
+,food-quality,negative,We know it is key that our dog nourishment smells as crisp and mouth-watering to dogs as could reasonably be expected. We just utilize the best quality affirmed ingredients to guarantee our items are solid as well as exceptionally good to dogs.,R
+,food-quality,negative,We ensure that we live upto your desires as all our crude materials are sourced from endorsed providers and our industrial facilities are autonomously reviewed to an indistinguishable standard from those used to deliver human sustenance.,R
+,food-quality,negative,"We regret that you are confronting issues with the quality of the item, we will contemplate this and want to serve you better in future.",R
+,food-quality,negative,We try to present with the best taste and the most beneficial nourishment for your dogs in terms of both quality and standards.,R
+,food-quality,negative,We take utmost care in ensuring the superior most quality of our food.,R
+,food-quality,negative,"Our dog food was created to provide you with the nutrients your dog needs, and likewise contain ingredients to support the 5|5 signs of a healthy body.",R
+,food-quality,negative,We realize it is essential that our dog food smells as fresh and appetising to dogs as possible. We only use the highest quality approved ingredients to ensure our products aren't just healthy but also very appealing to dogs.,R
+,food-quality,negative,We ensure that we live upto your expectations as all of our raw materials are sourced from approved suppliers and our factories are independently inspected on the same standard as those employed to produce human food.,R
+,food-quality,negative,"We regret that you're facing problems with the quality of the product, we'll keep this in mind and aspire to serve you better from now on.",R
+,food-quality,negative,We strive to provide with the best taste along with the healthiest food for your dogs.,R
+,food-quality,positive,Glad that you felt the food quality is good.,R
+,food-shapes,negative,We design shapes such that they look great and are easily digestable for your dog. Please look at our other products.,R
+,food-shapes,negative,We have all different shapes and sizes you can try difefrent ones.,R
+,food-shapes,positive,Happy to that the shapes are liked by your pet!,R
+,food-type,negative,We regret that the food type didn't suit your dog!,R
+,food-type,positive,We are happy that the food type suited your dog!,R
+,health-allergy,negative,"A small percentage of the pet population suffers from allergies, most of which are not related to diet. The majority of pet allergies are in response to environmental factors such as pollen, dust, fleas or mites.",R
+,health-allergy,negative,"Food allergies in pets are relatively rare and are estimated to account for less than 10% of all allergies. However, in the same way that some people cannot tolerate certain dietary components such as wheat gluten or cow‰Ûªs milk protein, a small number of pets have allergies or dietary sensitivity to foods such as beef, wheat or dairy.",R
+,health-allergy,negative,"If you're worried your dog might have a food allergy, take them to see your vet. Your vet will be able to help diagnose any problems.",R
+,health-allergy,negative,Food allergies occur because of a defect in an animal‰Ûªs immune system; they are not caused by a particular problem with the diet. Changing to another brand of pet food rarely helps as many ingredients are common to many pet foods.,R
+,health-ill,negative,"We are deeply saddened to hear about your dogs adverse health, please take good care. Be assured its not because of the food.",R
+,health-ill,negative,"We are profoundly disheartened to hear of your pets unfriendly wellbeing, please take great care. Be guaranteed its not as a result of the sustenance.",R
+,health-ill,negative,"We are deeply concerned to hear about your dogs health, please take good care. Be assured its not because of the food.",R
+,health-ill,negative,"We are profoundly worried to find out about your dogs wellbeing, please take great care. Be guaranteed its not due to the sustenance.",R
+,health-toxic,negative,"Every serving of Pedigree ensures that your dog is provided with all the vitamins, minerals, essential fatty acids, proteins, carbohydrates and fibre your dog needs for healthy overall development. We are pretty sure its not because of the food, please take good care of your pets health.",R
+,health-toxic,negative,"Every serving of Pedigree ensures that your dog is provided with all the vitamins, minerals, needed rich fatty acids, proteins, carbohydrates and fibre your dog needs for comprehensive athletic and health development. We are pretty sure its not because of the food, please take good care of your pets well-being.",R
+,health-toxic,negative,"Each serving of Pedigree guarantees that your dog is given every one of the vitamins, minerals, fundamental unsaturated fats, proteins, starches and fibre your puppy requirements for solid health advancement. We are almost certain its not as a result of the sustenance, please take great care of your pets wellbeing.",R
+,health-toxic,negative,There is stringent legislation in place to ensure that pet food is safe and of a high quality which makes sure there no health problems caused due to the food. Further more we do intensive studies on pet nutrition.,R
+,health-toxic,negative,The government has placed strict laws to ensure that pet food is safe and of a high quality which makes sure there no health problems caused due to the food. Further more we do comprehensive studies on pet nourishment.,R
+,health-toxic,negative,"The administration has put strict laws to guarantee that pet nourishment is protected and of a great quality which ensures there no health issues caused because of the food. Additionally, more we do exhaustive investigations on pet food.",R
+,health-toxic,negative,There is stringent enactment set up to guarantee that pet food is protected and of high quality which ensure there no medical issues caused because of the food.Further more we do intensive studies on pet nutrition.,R
+,health-vomit,negative,"Vomiting serves a vital function in dogs, many of whom have a well-deserved reputation for eating just about anything. Throwing up can be the body‰Ûªs way of correcting a mistake. Please consult a vet, it can be a serious problem.",R
+,health-vomit,negative,"If your adult dog (not applied to puppies, please take puppies to the doctor as soon as possible) has only vomited once or twice and seems to feel pretty good,take away all sources of food and water for six to eight hours. If your dog does not vomit during that time, offer a small amount of water. If your dog can hold that down, gradually reintroduce larger amounts of water.",R
+,health-vomit,negative,"Vomiting can be caused due to several reason such as lethargy & depression, abdominal pain, decreased urination, if its a puppy please take to the vet immediately, else for a adult dog monitor carefully and if the vomit continues to happen visit the vet.",R
+,health,negative,"Every serving of Pedigree ensures that your dog is provided with all the vitamins, minerals, essential fatty acids, proteins, carbohydrates and fibre your dog needs for healthy overall development. We are pretty sure its not because of the food, please take good care of your pets health.",R
+,health,negative,"Every serving of Pedigree ensures that your dog is provided with all the vitamins, minerals, needed rich fatty acids, proteins, carbohydrates and fibre your dog needs for comprehensive athletic and health development. We are pretty sure its not because of the food, please take good care of your pets well-being.",R
+,health,negative,"Each serving of Pedigree guarantees that your dog is given every one of the vitamins, minerals, fundamental unsaturated fats, proteins, starches and fibre your puppy requirements for solid health advancement. We are almost certain its not as a result of the sustenance, please take great care of your pets wellbeing.",R
+,health,negative,There is stringent legislation in place to ensure that pet food is safe and of a high quality which makes sure there no health problems caused due to the food. Further more we do intensive studies on pet nutrition.,R
+,health,negative,The government has placed strict laws to ensure that pet food is safe and of a high quality which makes sure there no health problems caused due to the food. Further more we do comprehensive studies on pet nourishment.,R
+,health,negative,"The administration has put strict laws to guarantee that pet nourishment is protected and of a great quality which ensures there no health issues caused because of the food. Additionally, more we do exhaustive investigations on pet food.",R
+,health,negative,There is stringent enactment set up to guarantee that pet food is protected and of high quality which ensure there no medical issues caused because of the food.Further more we do intensive studies on pet nutrition.,R
+,health,negative,"We are concerned about your pets health, one tip I would suggest is let him eat grass, Grass is one of those instinctual remedies dogs may go for when they‰Ûªre feeling unwell. And do please take him to the doctor and please be assured its not because of pedigree food, we go through strict legislation while making our products.",R
+,health,negative,"We are worried about your pets wellbeing, one tip I would recommend is given him a chance to eat grass, Grass is one of those instinctual cures dogs may go for when they're feeling unwell. Furthermore, do please take him to the vet and please be assured its not as a result of pedigree food, we experience strict enactment while making our items.",R
+,health,positive,Glad to know that the food is keeping your pet healthy!,R
+,hot-clusters,negative,We apologize for the inconvenience caused. We request you to share your contact details so that we can assist you better on our toll-free number 1800-4071-12121 or write to us at pedigree.india@effem.com. Regards Team Pedigree.,R
+,hot-clusters,negative,We apologize for the inconvenience caused. Please get in touch with us on our toll-free number 1800-4071-12121 or write to us at pedigree.india@effem.com. Regards Team Pedigree.,R
+,hot-clusters,negative,We are sorry for the inconvenience caused. Please get in touch with us on our toll-free number 1800-4071-12121 or write to us at pedigree.india@effem.com. Regards Team Pedigree.,R
+,hot-clusters,negative,We are sorry for the difficulty caused to you. Please share your contact details so that we can help you better on our toll-free number 1800-4071-12121 or write to us at pedigree.india@effem.com. Regards Team Pedigree.,R
+,infested-food,negative,We really regret you receiving the food infested. We'll certainly look into the matter.,R
+,infested-food,negative,We are concerned about you receiving the food infested. We'll further investigate the matter.,R
+,invoice,negative,"If you need a copy of your invoice, you can print one for any order you've placed.",DR
+,likability,negative,"I would suggest try feeding the food to him for sometime, it might take sometime for him to adjust or you can try our other products, he will surely like them! Rest assured our products are quality assurance passed both in terms of taste and smell!",R
+,likability,positive,We are happy that your pet likes our food!,R
+,nutritional-information,negative,Since nutrition is important for your dogs physical and mental health we take great care to get it right.,R
+,nutritional-information,negative,"Good nutrition can help your dog to get good sleep, energy and our products are carefully crafted with the right nutrients for your dog.",R
+,nutritional-information,negative,"Every product of pedigree under go series of tests on safety, digestibility and palatability before released in to the market. The palatability tests are done in a consumer panel having more than 300 dogs from pet owners. The product is checked for dogs preference, taste and enjoyment.",R
+,nutritional-information,negative,Since nourishment is imperative for your canines physical and psychological wellness we take extraordinary care to hit the nail on the head.,R
+,nutritional-information,negative,"Great nourishment can help your dog to get great rest, vitality and our items are deliberately created with the correct supplements for your canine.",R
+,nutritional-information,negative,"Each result of family under go arrangement of tests on security, absorbability and attractiveness before discharged in to the market. The agreeability tests are done in a buyer board having more than 300 canines from pet proprietors. The item is checked for mutts inclination, taste and happiness.",R
+,nutritional-information,negative,"First of all you have to find the cause of the nutritional deficiency. For example, An all meat diet for dogs will cause Calcium deficiency and mineral imbalance leading to bone and joint problem, excessive calcium and/or overfeeding cause Bone and joint problems in growing puppies of large breeds, etc. So, there is no need to feed any supplements like calcium or home diet while he is feeding on balanced food like pedigree except clean fresh water.",R
+,nutritional-information,negative,"As the owner of the dog one must know what all food goes along with pedigree like, additional supplements like vitamins or calcium along with pedigree can only upset nutrients balanced in pedigree and may cause imbalance, deficiency or toxicity. Therefore supplements are not recommended when a pet is fed exclusively on pedigree. All they need is fresh clean water",R
+,nutritional-information,negative,"As Pedigree contains whole grain cereals, meat and chicken by-products, cereal and vegetable by-products, proteins, vegetable oils, iodised salt,essential vitamins, minerals, preservatives, antioxidants and flavours, so the owner doesn;t has to worry about its nutritional supplements like, homemade food or additional supplements like vitamins or calcium.",R
+,nutritional-information,negative,"Each consequence of family under go course of action of tests on security, absorbability and engaging quality before released in to the market. The suitability tests are done in a purchaser board having more than 300 canines from pet proprietors. The thing is checked for mutts slant, taste and satisfaction.",R
+,nutritional-information,negative,"Most importantly you hav to discover the reason for the dietary inadequacy. For instance, An all meat eat less carbs for pooches will cause Calcium insufficiency and mineral lopsidedness prompting bone and joint issue, unnecessary calcium and additionally overloading reason Bone and joint issues in developing puppies of vast breeds, and so forth. In this way, there is no compelling reason to nourish any supplements like calcium or home eating regimen while he is encouraging on adjusted sustenance like family aside from clean new water.",R
+,nutritional-information,negative,"As the owner of the canine one must realize what all sustenance obliges family like, extra supplements like vitamins or calcium alongside family can just resentful supplements adjusted in family and may cause irregularity, inadequacy or lethality. Thusly supplements are not prescribed when a pet is encouraged only on family. All they require is crisp clean water",R
+,nutritional-information,negative,"As Pedigree contains entire grain oats, meat and chicken results, oat and vegetable side-effects, proteins, vegetable oils, iodised salt,essential vitamins, minerals, additives, cell reinforcements and flavors, so the proprietor doesn;t needs to stress over its dietary supplements like, custom made nourishment or extra supplements like vitamins or calcium.",R
+,nutritional-information,positive,Nutrition is key and we make sure that its just right for your dog! Glad that you liked it!,R
+,opinion,negative,"We are glad that you took some time to provide us the feedback, we'll surely work on incorporating it in our existing products",DR
+,opinion,negative,"Thanks for your valuable feedback, we look forward to improving our product",DR
+,opinion,negative,"Thanks for taking sometime to provide us with a feedback, this would definitely help us improving",DR
+,opinion,positive,We appreciate your feedback and will surely pass it on to the product development team.,R
+,oral-health,positive,breath fresh,R
+,packaging,negative,We are sorry that the packaging wasn't as it was supposed to be. We'll take more care the next time we send it to you!,DR
+,packaging,negative,We are sorry that the wrap wasn't as it was supposed to be. We'll take more distress the next turn we send it to you!,DR
+,packaging,negative,We are sorry that the confine wasn't as it was supposed to be. We'll take more responsibility the next time we send it to you!,DR
+,packaging,negative,We are contrite that the packaging wasn't as it was supposed to be. We'll take more responsibility the next time we send it to you!,DR
+,packaging,negative,We are conscience-stricken that case wasn't as it was supposed to be. We'll take more forebod the next turn we send it to you!,DR
+,packaging,negative,We are contrite that pack wasn't as it was supposed to be. We'll take more distress the next time we send it to you!,DR
+,packaging,negative,We are apologetic that confine wasn't as it was supposed to be. We'll take more distress the next turn we send it to you!,DR
+,packaging,negative,We are apologetic that pack wasn't as it was supposed to be. We'll take more responsibility the next time we send it to you!,DR
+,packaging,negative,We are conscience-stricken that pack wasn't as it was supposed to be. We'll take more distress the next turn we send it to you!,DR
+,packaging,negative,We are apologetic that the bundling wasn't as it should be. We'll take more care whenever we send it to you!,DR
+,packaging,negative,Regret that the packaging wasn't as it ought to be. We'll take more care at whatever point we send it to you!,DR
+,packaging,negative,We take the utmost care in terms of packaging our products. We apologize for the incovenience caused to you with regards to the packaging.,DR
+,packaging,negative,We take the unconditional responsibility in terms of packaging our products. We apologize for the trouble created to you with regards to the packaging.,DR
+,packaging,negative,We take sheer care in terms of packaging our products. We apologize for the incovenience induced to you with regards to the packaging.,DR
+,packaging,negative,We take the utmost forebod in terms of packing our products. We apologize for the trouble induced to you with regards to the packing.,DR
+,packaging,negative,We take unconditional encumbrance in terms of packing our products. We apologize for the incovenience caused to you with regards to the packing.,DR
+,packaging,negative,We take sheer encumbrance in terms of packing our products. We apologize for the incovenience created to you with regards to the packing.,DR
+,packaging,negative,We take all-out responsibility in terms of packaging our products. We apologize for the trouble caused to you with regards to the packaging.,DR
+,packaging,negative,We take all-out distress in terms of packaging our products. We apologize for the trouble induced to you with regards to the packaging.,DR
+,packaging,negative,We take the utmost encumbrance in terms of packaging our products. We apologize for the trouble created to you with regards to the packaging.,DR
+,packaging,negative,We take the ultimate care in terms of packaging our products. We apologize for the trouble induced to you with regards to the packaging.,DR
+,packaging,negative,We take absolute responsibility in terms of packing our products. We apologize for the incovenience caused to you with regards to the packing.,DR
+,packaging,negative,We take the most extreme care regarding bundling our items. We apologize for the inconvenience caused to you concerning the bundling.,DR
+,packaging,negative,We apologize for the damaged package received by you. We will ensure that this won't repeat the next time. Thanks for your cooperation.,DR
+,packaging,negative,We apologize for the damaged parcel received by you. We will ensure that this won't repeat the next time. Thanks for your cooperation.,DR
+,packaging,negative,We apologize for the damaged packet received by you. We will ensure that this won't repeat the next turn. Thanks for your cooperation.,DR
+,packaging,negative,We are sorry that the package wasn't in the right condition. We will make sure that this won't repeat the next time.,DR
+,packaging,negative,We are sorry that the package wasn't in good condition. We assure you that this won't repeat the next turn.,DR
+,packaging,negative,We are contrite that the box wasn't in good condition. We are positive that this won't repeat the next turn.,DR
+,packaging,negative,We are apologetic that the packet wasn't in the right condition. We are confident that this won't repeat the next turn.,DR
+,packaging,negative,We are contrite that the packet wasn't in the appropriate condition. We will make positive that this won't repeat the next time.,DR
+,packaging,negative,"Regret that the packaging wasn't at its best. Here at pedigree, we take great care while packing your lovely products!",DR
+,packaging,negative,"Regret that the packaging wasn't at its best. Here at pedigree, we take utmost care while packing your splendid products!",DR
+,packaging,negative,"Regret that the packaging wasn't at its best. Here at pedigree, we take enormous responsibility while packing your lovely products!",DR
+,packaging,negative,We are looking forward to change our packaging material and hope that you will get better product in the future.,DR
+,packaging,negative,We are working on making it better like making it airtight to avoid spoilage.,DR
+,packaging,negative,We are engaged in getting the packaging superior by making it impenetrable to stop spoilage.,DR
+,packaging,negative,We are working on getting the packaging better by making it airtight to avoid spoilage.,DR
+,packaging,negative,We are working on getting the packing more sophisticated by making it airtight to avoid leakage.,DR
+,packaging,negative,We are taking a shot at getting the packing more modern by making it impermeable to keep away from spillage.,DR
+,packaging,negative,"Our packing materials are of high quality to ensure there is no wear and tear, regret you faced an issue as such.",DR
+,packaging,negative,"Our packaging designs are of high quality to ensure there is no wear and tear, regret you experienced an issue as such.",DR
+,packaging,negative,"Our packaging materials are of high caliber to guarantee there is no wear and tear, lament you confronted an issue all things considered.",DR
+,packaging,negative,"Our packages are designed to keep the food safe and secure and are of high caliber, regret  that the package you received wasn't as it should have been.",DR
+,packaging,negative,"Our packages are designed to keep the food protected and intact and are of great caliber, regret that the parcel you got wasn't as it should have been.",DR
+,packaging,negative,"Our packets are intended to keep the nourishment protected and secure and are of high quality, we regret that the pack you received wasn't as it ought to have been.",DR
+,packaging,negative,"Our packages are intended to maintain the food protected and keep it protected and secure and therefore are of high quality, regret how the package you've got wasn't as it ought to have been.",DR
+,packaging,positive,Happy to know that the packaging suits you!,R
+,price,negative,"Our prices are very reasonable when compared to competitors, we even provided discounted prices at regular intervals, please do keep an eye on them.",R
+,price,negative,Pedigree comes first in terms of both quality and affordability.,R
+,price,negative,Our premium products are always priced keeping in mind the affordability of our users.,R
+,price,negative,"Here at pedigree, we strive for providing the best prices!",R
+,price,negative,"Providing best products and at best rates is our goal, please be sure the price you are paying is reasonable.",R
+,price,negative,To make the products available to all our customers we keep the prices very affordable.,R
+,price,negative,Affordability and quality are two things we look for in our products. Please be assured the rates you are paying are the cheapest!,R
+,price,negative,Our prices are the most affordable and unbeatable in the market.,R
+,price,positive,We always keep our prices low for our customers! Glad that you felt that the price was cheap!,R
+,product-condition-damaged,negative,Regret that the product was damaged.,R
+,product-condition,negative,We regret sending you a pack which has already been expired. We‰Ûªll further inquire with our team on this and get back to you soon.,R
+,product-condition,negative,"We regret that the product was expired, we will make sure that this doesn't repeat.",R
+,product-condition,positive,Happy to know that the product was in the right condition!,R
+,product-dimensions,negative,Regret that the size/weight wasn't as expected by you.,R
+,product-dimensions,negative,We have standardised procedures and tests to make sure the size/weight is as shown.,R
+,product-dimensions,positive,Glad that the product had the right product dimensions.,R
+,product-duplicate,negative,We assure you that the products sold on amazon are 100% genuine pedigree products.,R
+,product-duplicate,negative,"Rest assured, the products sold on Amazon are original predigree products.",R
+,product-duplicate,negative,"The product sold online are real genuine pedigree products. Please, do not worry.",R
+,product-overall-5stars,positive,Glad that your happy with the product. Thanks for writing back and keep sharing your wonderful experiences with us!,R
+,product-overall-5stars,positive,We are happy that the product met your expectations! Thanks customer name for leaving the review.,R
+,product-overall-5stars,positive,"Dear customer name, thanks for your valuable feedback. We are happy that the product could reach your expectations.",R
+,product-overall-5stars,positive,We're happy that you and your dog are happy with the product! Thanks for writing back!,R
+,product-overall-long-reply-3-stars,positive,"Dear customer name, thank you for out taking your valuable time and writing back to us. We always try to work on improving our product.",R
+,product-overall-long-reply-4-stars,positive,"Dear customer name, thanks for your valuable feedback. We are happy that the product could reach your expectations.",R
+,product-overall-long-reply,negative,"Dear customer name, Thanks for taking time in providing the feedback.",R
+,product-overall-long-reply,negative,"Dear customer name, Thanks for your valuable feedback.",R
+,product-overall-long-reply,negative,"Dear customer name, We appreciate you taking time to write to us.",R
+,product-overall-long-reply,negative,"Dear customer name, Your feedback will definitely help us, thanks for writing.",R
+,product-overall-long-reply,negative,"Dear customer name, Your input will help us, thanks for writing.",R
+,product-overall-long-reply,negative,"Dear customer name, We value your feedback and thank you for taking time in writing.",R
+,product-overall-long-reply,negative,"Dear customer name, Thanks for the feedback, it will certainly help us improve.",R
+,product-overall-long-reply,negative,We take your valuable words positively.,R
+,product-overall-long-reply,negative,"Dear customer name, Thanks for taking time in providing the feedback.",R
+,product-overall-long-reply,negative,"Dear customer name, Thanks for your valuable feedback.",R
+,product-overall-long-reply,negative,"Dear customer name, We appreciate you taking time to write to us.",R
+,product-overall-long-reply,negative,"Dear customer name, Your feedback will definitely help us, thanks for writing.",R
+,product-overall-long-reply,negative,"Dear customer name, Your input will help us, thanks for writing.",R
+,product-overall-long-reply,negative,"Dear customer name, We value your feedback and thank you for taking time in writing.",R
+,product-overall-long-reply,negative,"Dear customer name, Thanks for the feedback, it will certainly help us improve.",R
+,product-overall-long-reply,negative,We take your valuable words positively.,R
+,product-overall-longer-reply-3-stars,positive,"Dear customer name, thank you for out taking your valuable time and writing back to us. We always try to work on improving our product.",R
+,product-overall-longer-reply-3-stars,positive,We are incredibly grateful that you took the time out to leave us this note. Our company values put customer‰Ûªs pet satisfaction as top priority and we are committed to our customers. Its customers like you that make our job wonderful. We look forward to serving you again and eradicate those mistakes done in the past.,R
+,product-overall-longer-reply-3-stars,positive,We are unfathomably appreciative that you took the time out to leave us this note. Our organization esteems put client's pet fulfillment as best need and we are focused on our clients. Its clients like you that make our activity awesome. We anticipate serving you again and annihilate those slip-ups done before.,R
+,product-overall-longer-reply-3-stars,positive,We are incomprehensibly grateful that you took the time out to leave us this note. Our association regards put customer's pet satisfaction as best need and we are centered around our customers. Its customers like you that make our movement amazing. We expect serving you again and demolish those slip-ups done previously.,R
+,product-overall-longer-reply-3-stars,positive,We are vastly appreciative that you took the time out to assent us this note. Our affiliation sees put client's pet fulfillment as best need and we are revolved around our clients. Its clients like you that make our development stunning. We expect serving you again and pulverize those slip-ups done beforehand.,R
+,product-overall-longer-reply-4-stars,positive,"Dear customer name, thanks for your valuable feedback. We are happy that the product could reach your expectations.",R
+,product-overall-longer-reply-4-stars,positive,"Dear customer name, Thanks for leaving us such a wonderful review. We are glad that you and your pet loved our product, our dedicated staff will be pleased to learn of your high praise and we will surely work harder to get those five start next time from you.",R
+,product-overall-longer-reply-4-stars,positive,"Dear customer name, We are happy that you and your pet adored our product.",R
+,product-overall-longer-reply-4-stars,positive,"Dear customer name, We are upbeat that you and your pet loved our product.",R
+,product-overall-longer-reply-4-stars,positive,"Dear customer name, We are happy that you and your pet cherished our product.",R
+,product-overall,negative,"Dear customer name, Thanks for taking time in providing the feedback.",R
+,product-overall,negative,"Dear customer name, Thanks for your valuable feedback.",R
+,product-overall,negative,"Dear customer name, We appreciate you taking time to write to us.",R
+,product-overall,negative,"Dear customer name, Your feedback will definitely help us, thanks for writing.",R
+,product-overall,negative,"Dear customer name, Your input will help us, thanks for writing.",R
+,product-overall,negative,"Dear customer name, We value your feedback and thank you for taking time in writing.",R
+,product-overall,negative,"Dear customer name, Thanks for the feedback, it will certainly help us improve.",R
+,product-overall,negative,We take your valuable words positively.,R
+,product-overall,positive,We're glad to know your pet enjoys pedigree. Do keep sharing more pedigree experiences with us.,R
+,product-overall,positive,Happy to know that your dog likes it! Keep sharing your wonderful experiences with all of us.,R
+,product-overall,positive,We're happy that you and your dog are happy with the product! Thanks for writing back!,R
+,product-overall,positive,"At pedigree customers are our top priority, glad to know that we are able to live up to that!",R
+,product-overall,positive,"Glad to hear your wonderful experience with pedigree, do keep writing to us with more such awesome experiences!",R
+,product-overall,positive,Happy to know that the product could live upto the your expectations!,R
+,product-overall,positive,Super excited to know pedigree was liked by your dog!,R
+,product-overall,positive,We at pedigree are happy to know that the food was liked by your pet!,R
+,product-overall,positive,We're happy to know your pet appreciates pedigree. Do continue imparting more pedigree encounters to us.,R
+,product-overall,positive,Glad to realize that your dog prefers pedigree! Continue writing your magnificent encounters to every one of us.,R
+,product-overall,positive,We're upbeat that you and your dog are content with the product! Thanks for composing back!,R
+,product-overall,positive,"At pedigree clients are our top priority, happy to realize that we can satisfy that!",R
+,product-overall,positive,"Happy to hear your great experience with pedigree, do continue keeping in touch with us with all the more such wonderful encounters!",R
+,product-overall,positive,Cheerful to realize that the item could live upto the your desires!,R
+,product-overall,positive,Super happy to know pedigree was loved by your pet!,R
+,product-overall,positive,We at pedigree are cheerful to realize that the nourishment was loved by your pet!,R
+,product-overall,positive,We're pleased to know your dog appreciates pedigree. Do continue imparting more pedigree encounters to all of us.,R
+,product-overall,positive,Glad to understand that your dog prefers pedigree! Continue writing your magnificent encounters to everyone.,R
+,product-overall,positive,We're upbeat that you and your dog are satisfied using the product! Appreciate you writing back to us!,R
+,product-overall,positive,"Pleased to hear your great experience with pedigree, do continue keeping in touch with us with all the wonderful encounters!",R
+,product-overall,positive,Cheerful {to realize|to understand|to appreciate|to comprehend} {that the|the|how the|that this} item could live upto the your desires!,R
+,product-overall,positive,Super happy to know pedigree was preferred by your pet!,R
+,product-overall,positive,We at pedigree are happy to know how pedigree was preferred by your dog!,R
+,product-overall-short-reply,negative,"Dear customer name, Thanks for taking time in providing the feedback.",R
+,product-overall-short-reply,negative,"Dear customer name, Thanks for your valuable feedback.",R
+,product-overall-short-reply,negative,"Dear customer name, We appreciate you taking time to write to us.",R
+,product-overall-short-reply,negative,"Dear customer name, Your feedback will definitely help us, thanks for writing.",R
+,product-overall-short-reply,negative,"Dear customer name, Your input will help us, thanks for writing.",R
+,product-overall-short-reply,negative,"Dear customer name, We value your feedback and thank you for taking time in writing.",R
+,product-overall-short-reply,negative,"Dear customer name, Thanks for the feedback, it will certainly help us improve.",R
+,product-overall-short-reply,negative,We take your valuable words positively.,R
+,product-overall-short-reply,negative,"Dear customer name, Thanks for taking time in providing the feedback.",R
+,product-overall-short-reply,negative,"Dear customer name, Thanks for your valuable feedback.",R
+,product-overall-short-reply,negative,"Dear customer name, We appreciate you taking time to write to us.",R
+,product-overall-short-reply,negative,"Dear customer name, Your feedback will definitely help us, thanks for writing.",R
+,product-overall-short-reply,negative,"Dear customer name, Your input will help us, thanks for writing.",R
+,product-overall-short-reply,negative,"Dear customer name, We value your feedback and thank you for taking time in writing.",R
+,product-overall-short-reply,negative,"Dear customer name, Thanks for the feedback, it will certainly help us improve.",R
+,product-overall-short-reply,negative,We take your valuable words positively.,R
+,product-overall,negative,"Dear customer name, Thanks for taking time in providing the feedback.",R
+,product-overall,negative,"Dear customer name, Thanks for your valuable feedback.",R
+,product-overall,negative,"Dear customer name, We appreciate you taking time to write to us.",R
+,product-overall,negative,"Dear customer name, Your feedback will definitely help us, thanks for writing.",R
+,product-overall,negative,"Dear customer name, Your input will help us, thanks for writing.",R
+,product-overall,negative,"Dear customer name, We value your feedback and thank you for taking time in writing.",R
+,product-overall,negative,"Dear customer name, Thanks for the feedback, it will certainly help us improve.",R
+,product-overall,negative,We take your valuable words positively.,R
+,product-overall,positive,We're glad to know your pet enjoys pedigree. Do keep sharing more pedigree experiences with us.,R
+,product-overall,positive,Happy to know that your dog likes it! Keep sharing your wonderful experiences with all of us.,R
+,product-overall,positive,We're happy that you and your dog are happy with the product! Thanks for writing back!,R
+,product-overall,positive,"At pedigree customers are our top priority, glad to know that we are able to live up to that!",R
+,product-overall,positive,"Glad to hear your wonderful experience with pedigree, do keep writing to us with more such awesome experiences!",R
+,product-overall,positive,Happy to know that the product could live upto the your expectations!,R
+,product-overall,positive,Super excited to know pedigree was liked by your dog!,R
+,product-overall,positive,We at pedigree are happy to know that the food was liked by your pet!,R
+,product-overall,positive,We're happy to know your pet appreciates pedigree. Do continue imparting more pedigree encounters to us.,R
+,product-overall,positive,Glad to realize that your dog prefers pedigree! Continue writing your magnificent encounters to every one of us.,R
+,product-overall,positive,We're upbeat that you and your dog are content with the product! Thanks for composing back!,R
+,product-overall,positive,"At pedigree clients are our top priority, happy to realize that we can satisfy that!",R
+,product-overall,positive,"Happy to hear your great experience with pedigree, do continue keeping in touch with us with all the more such wonderful encounters!",R
+,product-overall,positive,Cheerful to realize that the item could live upto the your desires!,R
+,product-overall,positive,Super happy to know pedigree was loved by your pet!,R
+,product-overall,positive,We at pedigree are cheerful to realize that the nourishment was loved by your pet!,R
+,product-overall,positive,We're pleased to know your dog appreciates pedigree. Do continue imparting more pedigree encounters to all of us.,R
+,product-overall,positive,Glad to understand that your dog prefers pedigree! Continue writing your magnificent encounters to everyone.,R
+,product-overall,positive,We're upbeat that you and your dog are satisfied using the product! Appreciate you writing back to us!,R
+,product-overall,positive,"Pleased to hear your great experience with pedigree, do continue keeping in touch with us with all the wonderful encounters!",R
+,product-overall,positive,Super happy to know pedigree was preferred by your pet!,R
+,product-overall,positive,We at pedigree are happy to know how pedigree was preferred by your dog!,R
+,replacement,negative,We have a flexbile replacement policy please refer to our service guidelines to know more.,DR
+,replacement,negative,"We are sorry that you didnt like product and are looking for replacement, we have certain conditions on replacing the products, please refer our terms and conditions.",DR
+,replacement,negative,"We regret that your dog wasn't fond of our product, replacements are subjected to product condition and our policies, please refer to them know more! <give link>",DR
+,replacement,negative,We have a flexbile substitution approach please infer our association standards to know more.,DR
+,replacement,negative,"We are sad that you didnt like product and are searching for a substitution, we have certain conditions on supplanting the product, please read our terms and conditions.",DR
+,replacement,negative,We certainly have a flexbile substitution strategy please imply our firm principles to know more.,DR
+,replacement,negative,"We are sorry that you didnt like our product and are looking for a substitution, we now have certain conditions on supplanting the things, please suggest our conditions and conditions.",DR
+,replacement,negative,"We feel dissapointed thatour product did not met your expectations, substitutions are subjected to thing condition and our plans, please insinuate them know more!",DR
+,replacement,positive,"Thanks for trusting our replacement service, we are always there for our customers!",R
+,seller,negative,Amazon and the sellers take great care of the product.,DR
+,seller,positive,Happy to know that the seller and Amazon could meet your expectations!,R
+,share-details,positive,Please share your contact number so we can assist you better.,R
+,share-details,positive,Request you to share your contact details so that experts can understand the issue and investigate the same.,R
+,share-details,positive,Request you to share your contact details so that our expert can get in touch with you to further understand the concern.,R
+,share-details,positive,"It will be appreciated if you can provide your contact number & Address, we would be very happy to help you better.",R
+,share-details,positive,"Request you to share your contact details so that we can assist you better, or call us at our toll free number 1800407112121, or E-mail us on pedigree.india@effem.com with complete contact details.",R
+,share-details,positive,"Kindly share your contact details. So, that our associate will get in touch with you for some details.",R
+,smell,negative,We take great care in terms of both smell and taste while making our products. We understand that dogs are picky when it comes to the smell. You may try out our other products and surely one of them will work!,R
+,smell,negative,"We put in a lot of time when it comes to the smell of the food since we understand smell is more important for dogs than taste. Perhaps, you might want to try out our other products. We are pretty confident that he will end up liking them!",R
+,smell,negative,"Since smell is an important aspect for a dog we do a lot of research to make sure that the food smells right. Perhaps, your dog might like another product's smell. It depends a lot on his age. Please try out our other products!",R
+,smell,negative,"Since smell is a critical angle for a dog we complete a considerable measure of research to ensure that the nourishment notices right. Maybe, your puppy may like another item's scent. It depends a great deal on his age. If it's not too much trouble experiment with our different items!",R
+,smell,negative,We take extraordinary care as far as both smell and taste while making our items. We comprehend that puppies are critical with regards to the odor. You may experiment with our different items and clearly one of them will work!,R
+,smell,negative,We take unprecedented care similar to both smell and taste while making our things. We grasp that puppies are basic with respect to the smell. You may try different things with our diverse things and unmistakably one of them will work!,R
+,smell,negative,"We put in a great deal of time with regards to the possess an aroma similar to the nourishment since we comprehend smell is more imperative for canines than taste. Maybe, you should need to experiment with our different items. We are quite sure that he will wind up loving them!",R
+,smell,positive,aroma,R
+,smell,positive,fragrant,R
+,smell,positive,odorless,R
+,taste,negative,We realize the importance of taste in dog food and make sure that ingredients are in the right blend.,R
+,taste,negative,We put in a lot of effort to make sure that the taste is just right for your pet. Please try our other products which might suit your dog taste.,R
+,taste,negative,"A lot of how dog endes up liking the taste depends on what kind of foods he had when he was young, perhaps you should try out our other range products depending on what your dog had previously, we are sure you'll find the right mix!",R
+,taste,negative,"We are sorry that your dog didnt like the taste, we are confident that our products would be liked by him.",R
+,taste,negative,"Getting the right taste and smell is our top priority, lot of our research goes in finding the best mix for getting the taste right",R
+,taste,negative,We understand the significance of taste in canine nourishment and ensure that fixings are in the correct mix.,R
+,taste,negative,We put in a ton of push to ensure that the taste is perfect for your pet. Kindly attempt our different items which may suit your pooch taste.,R
+,taste,negative,"A considerable measure of how puppy endes up preferring the taste relies upon what sort of nourishments he had when he was youthful, maybe you should experiment with our other range items relying upon what your canine had already, we are certain you'll locate the correct blend!",R
+,taste,negative,"We are sad that your canine didnt like the taste, we are sure that our items would be enjoyed by him.",R
+,taste,negative,"Getting the correct taste and smell is our best need, parcel of our exploration goes in finding the best blend for getting the taste right.",R
+,taste,negative,We comprehend the noteworthiness of taste in canine food and guarantee that fixings are in the right blend.,R
+,taste,negative,We put in a huge amount of push to guarantee that the taste is ideal for your pet. Sympathetically endeavor our distinctive things which may suit your pooch taste.,R
+,taste,negative,"A significant measure of how dogs end up inclining toward the taste depends upon what kind of sustenances he had when he was young, perhaps you should explore different avenues regarding our other range things depending upon what your canine had as of now, we are sure you'll find the right mix!",R
+,taste,negative,"We are dismal that your canine didnt like the taste, we are certain that our things would be delighted in by him.",R
+,taste,positive,Happy to know that the taste was liked by your dog! We always strive to provide the most delicious dog food!,R
+,texture-style,negative,The crunchy texture of Pedigree helps to keep your dog's gums healthy and teeth clean.,R
+,texture-style,negative,The crisp texture of Pedigree helps to stay your dog's gums healthy and teeth clean.,R
+,texture-style,negative,The crunchy surface of Pedigree keeps your puppy's gums sound and teeth clean.,R
+,texture-style,negative,The crunchy texture of Pedigree facilitates to maintain your canine's gums healthful and tooth easy.,R
+,texture-style,negative,The crunchy texture of Pedigree allows to preserve your canine's gums wholesome and teeth smooth.,R
+,texture-style,negative,The crisp texture of Pedigree facilitates to live your dog's gums healthful and tooth easy.,R
+,texture-style,negative,The crunchy floor of Pedigree keeps your puppy's gums sound and enamel easy.,R
+,texture-style,negative,The crunchy texture of Pedigree helps to maintain your canine's gums healthful and teeth clean.,R
+,texture-style,positive,Glad that the texture met your expectations!,R
+,vfm,negative,"Our prices are very reasonable when compared to competitors, we even provided discounted prices at regular intervals, please do keep an eye on them.",R
+,vfm,negative,"Our costs are terribly cheap when put next to competitors, we have a tendency to even provided discounted costs at regular intervals, please do keep a watch on them.",R
+,vfm,positive,Glad to know that the product is value for money.,R
+,warranty,negative,We are liable for the warranty for the period as stated on the pack. Please try to consume the product before that period.,DR
+,warranty,negative,Please check the warranty of the product before consuming it. We cannot guarantee anything after the stated period has passed.,DR
+,warranty,negative,If it's not too much trouble check the guarantee of the item before devouring it. We can't ensure anything after the expressed period has passed..,DR
+,warranty,positive,Glad that the warranty is appreciated!,R
